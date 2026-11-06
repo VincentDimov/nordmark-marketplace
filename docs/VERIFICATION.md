@@ -31,4 +31,6 @@ Smoke-test mot driftsatt API verifierade databasinitiering, sparad varukorg, lyc
 
 En otillförlitlig testväntan på ett nätverkssvar ersattes med kontroll av faktiskt renderat sessionsinnehåll. Det undviker att ett redan avslutat snabbt API-svar missas i CI eller på den publicerade webbplatsen. Applikationskoden ändrades inte av den rättningen.
 
+CI:s mobiltest avgränsades också till synligt innehåll i `#main`, eftersom Next.js under streaming kan ha både en dold förberedande kopia och det synliga innehållet i DOM samtidigt. Första Linux-körningen efter publicering passerade 15/16 tester och identifierade denna selektorfråga; övriga kontroller, inklusive köp och behörigheter, var godkända.
+
 Vercels första loggsökning efter driftsatt smoke-test returnerade inga felloggar. Separat extern felövervakning/drains är inte konfigurerad. GitHub Actions körs också på den pushade källkoden; dess slutstatus kan läsas via repots Actions-flik.

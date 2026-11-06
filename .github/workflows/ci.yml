@@ -16,7 +16,7 @@ jobs:
           POSTGRES_PASSWORD: nordmark
           POSTGRES_DB: nordmark
         ports: ['5432:5432']
-        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
+        options: --health-cmd "pg_isready -U nordmark -d nordmark" --health-interval 10s --health-timeout 5s --health-retries 5
     env:
       DATABASE_URL: postgresql://nordmark:nordmark@localhost:5432/nordmark
       DIRECT_URL: postgresql://nordmark:nordmark@localhost:5432/nordmark
