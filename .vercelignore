@@ -1,0 +1,8 @@
+.env*
+!.env.example
+docs/screenshots/
+test-results/
+playwright-report/
+scripts/source-products.json
+scripts/audit.json
+.git/

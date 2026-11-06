@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+.vercel/
+test-results/
+playwright-report/
+*.tsbuildinfo
+*.log
+scripts/source-products.json
+scripts/audit.json
+!.env.example
+
+.vercel
+.env*
+!.env.example

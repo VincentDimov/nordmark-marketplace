@@ -1,0 +1,6098 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "brand": "Apple",
+      "categoryId": "elektronik",
+      "description": "Upptäck Apple MacBook Pro 14 Inch Space Grey. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p001.webp"],
+      "rating": 4,
+      "reviewCount": 128,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P001"
+      },
+      "variants": [
+        {
+          "id": "p001-v1",
+          "name": "Standard",
+          "image": "/images/p001.webp",
+          "offers": [
+            {
+              "id": "p001-v1-s1",
+              "sellerId": "s1",
+              "price": 2000900,
+              "originalPrice": 2354900,
+              "stock": 8,
+              "sku": "NM-p001-STD"
+            }
+          ]
+        },
+        {
+          "id": "p001-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p001.webp",
+          "offers": [
+            {
+              "id": "p001-v2-s1",
+              "sellerId": "s1",
+              "price": 2010900,
+              "originalPrice": 2366900,
+              "stock": 3,
+              "sku": "NM-p001-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
+    },
+    {
+      "id": "p002",
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "brand": "Asus",
+      "categoryId": "elektronik",
+      "description": "Upptäck Asus Zenbook Pro Dual Screen Laptop. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p002.webp"],
+      "rating": 4.1,
+      "reviewCount": 301,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P002"
+      },
+      "variants": [
+        {
+          "id": "p002-v1",
+          "name": "Standard",
+          "image": "/images/p002.webp",
+          "offers": [
+            {
+              "id": "p002-v1-s1",
+              "sellerId": "s1",
+              "price": 1800900,
+              "originalPrice": 2252000,
+              "stock": 9,
+              "sku": "NM-p002-STD"
+            }
+          ]
+        },
+        {
+          "id": "p002-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p002.webp",
+          "offers": [
+            {
+              "id": "p002-v2-s1",
+              "sellerId": "s1",
+              "price": 1810900,
+              "originalPrice": 2264000,
+              "stock": 4,
+              "sku": "NM-p002-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp"
+    },
+    {
+      "id": "p003",
+      "title": "Huawei Matebook X Pro",
+      "brand": "Huawei",
+      "categoryId": "elektronik",
+      "description": "Upptäck Huawei Matebook X Pro. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p003.webp"],
+      "rating": 4.2,
+      "reviewCount": 474,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P003"
+      },
+      "variants": [
+        {
+          "id": "p003-v1",
+          "name": "Standard",
+          "image": "/images/p003.webp",
+          "offers": [
+            {
+              "id": "p003-v1-s1",
+              "sellerId": "s1",
+              "price": 1400900,
+              "originalPrice": 1868800,
+              "stock": 10,
+              "sku": "NM-p003-STD"
+            }
+          ]
+        },
+        {
+          "id": "p003-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p003.webp",
+          "offers": [
+            {
+              "id": "p003-v2-s1",
+              "sellerId": "s1",
+              "price": 1410900,
+              "originalPrice": 1880800,
+              "stock": 5,
+              "sku": "NM-p003-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp"
+    },
+    {
+      "id": "p004",
+      "title": "Lenovo Yoga 920",
+      "brand": "Lenovo",
+      "categoryId": "elektronik",
+      "description": "Upptäck Lenovo Yoga 920. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p004.webp"],
+      "rating": 4.3,
+      "reviewCount": 647,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P004"
+      },
+      "variants": [
+        {
+          "id": "p004-v1",
+          "name": "Standard",
+          "image": "/images/p004.webp",
+          "offers": [
+            {
+              "id": "p004-v1-s1",
+              "sellerId": "s1",
+              "price": 1100900,
+              "originalPrice": 1573600,
+              "stock": 11,
+              "sku": "NM-p004-STD"
+            }
+          ]
+        },
+        {
+          "id": "p004-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p004.webp",
+          "offers": [
+            {
+              "id": "p004-v2-s1",
+              "sellerId": "s1",
+              "price": 1110900,
+              "originalPrice": 1585600,
+              "stock": 6,
+              "sku": "NM-p004-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
+    },
+    {
+      "id": "p005",
+      "title": "New DELL XPS 13 9300 Laptop",
+      "brand": "Dell",
+      "categoryId": "elektronik",
+      "description": "Upptäck New DELL XPS 13 9300 Laptop. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p005.webp"],
+      "rating": 4.4,
+      "reviewCount": 820,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P005"
+      },
+      "variants": [
+        {
+          "id": "p005-v1",
+          "name": "Standard",
+          "image": "/images/p005.webp",
+          "offers": [
+            {
+              "id": "p005-v1-s1",
+              "sellerId": "s1",
+              "price": 1500900,
+              "originalPrice": 2310000,
+              "stock": 12,
+              "sku": "NM-p005-STD"
+            }
+          ]
+        },
+        {
+          "id": "p005-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p005.webp",
+          "offers": [
+            {
+              "id": "p005-v2-s1",
+              "sellerId": "s1",
+              "price": 1510900,
+              "originalPrice": 2322000,
+              "stock": 7,
+              "sku": "NM-p005-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+    },
+    {
+      "id": "p006",
+      "title": "iPhone 5s",
+      "brand": "Apple",
+      "categoryId": "elektronik",
+      "description": "Upptäck iPhone 5s. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p006.webp"],
+      "rating": 4.5,
+      "reviewCount": 993,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P006"
+      },
+      "variants": [
+        {
+          "id": "p006-v1",
+          "name": "Standard",
+          "image": "/images/p006.webp",
+          "offers": [
+            {
+              "id": "p006-v1-s1",
+              "sellerId": "s1",
+              "price": 200900,
+              "originalPrice": 237300,
+              "stock": 13,
+              "sku": "NM-p006-STD"
+            }
+          ]
+        },
+        {
+          "id": "p006-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p006.webp",
+          "offers": [
+            {
+              "id": "p006-v2-s1",
+              "sellerId": "s1",
+              "price": 210900,
+              "originalPrice": 249300,
+              "stock": 8,
+              "sku": "NM-p006-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp"
+    },
+    {
+      "id": "p007",
+      "title": "iPhone 6",
+      "brand": "Apple",
+      "categoryId": "elektronik",
+      "description": "Upptäck iPhone 6. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p007.webp"],
+      "rating": 4.6,
+      "reviewCount": 1166,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P007"
+      },
+      "variants": [
+        {
+          "id": "p007-v1",
+          "name": "Standard",
+          "image": "/images/p007.webp",
+          "offers": [
+            {
+              "id": "p007-v1-s1",
+              "sellerId": "s1",
+              "price": 300900,
+              "originalPrice": 377000,
+              "stock": 14,
+              "sku": "NM-p007-STD"
+            }
+          ]
+        },
+        {
+          "id": "p007-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p007.webp",
+          "offers": [
+            {
+              "id": "p007-v2-s1",
+              "sellerId": "s1",
+              "price": 310900,
+              "originalPrice": 389000,
+              "stock": 9,
+              "sku": "NM-p007-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp"
+    },
+    {
+      "id": "p008",
+      "title": "iPhone 13 Pro",
+      "brand": "Apple",
+      "categoryId": "elektronik",
+      "description": "Upptäck iPhone 13 Pro. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p008.webp"],
+      "rating": 4.7,
+      "reviewCount": 1339,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P008"
+      },
+      "variants": [
+        {
+          "id": "p008-v1",
+          "name": "Standard",
+          "image": "/images/p008.webp",
+          "offers": [
+            {
+              "id": "p008-v1-s1",
+              "sellerId": "s1",
+              "price": 1100900,
+              "originalPrice": 1468800,
+              "stock": 15,
+              "sku": "NM-p008-STD"
+            }
+          ]
+        },
+        {
+          "id": "p008-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p008.webp",
+          "offers": [
+            {
+              "id": "p008-v2-s1",
+              "sellerId": "s1",
+              "price": 1110900,
+              "originalPrice": 1480800,
+              "stock": 10,
+              "sku": "NM-p008-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp"
+    },
+    {
+      "id": "p009",
+      "title": "iPhone X",
+      "brand": "Apple",
+      "categoryId": "elektronik",
+      "description": "Upptäck iPhone X. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p009.webp"],
+      "rating": 4.8,
+      "reviewCount": 1512,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P009"
+      },
+      "variants": [
+        {
+          "id": "p009-v1",
+          "name": "Standard",
+          "image": "/images/p009.webp",
+          "offers": [
+            {
+              "id": "p009-v1-s1",
+              "sellerId": "s1",
+              "price": 900900,
+              "originalPrice": 1287900,
+              "stock": 16,
+              "sku": "NM-p009-STD"
+            }
+          ]
+        },
+        {
+          "id": "p009-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p009.webp",
+          "offers": [
+            {
+              "id": "p009-v2-s1",
+              "sellerId": "s1",
+              "price": 910900,
+              "originalPrice": 1299900,
+              "stock": 11,
+              "sku": "NM-p009-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp"
+    },
+    {
+      "id": "p010",
+      "title": "Oppo A57",
+      "brand": "Oppo",
+      "categoryId": "elektronik",
+      "description": "Upptäck Oppo A57. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p010.webp"],
+      "rating": 4.9,
+      "reviewCount": 1685,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P010"
+      },
+      "variants": [
+        {
+          "id": "p010-v1",
+          "name": "Standard",
+          "image": "/images/p010.webp",
+          "offers": [
+            {
+              "id": "p010-v1-s1",
+              "sellerId": "s1",
+              "price": 250900,
+              "originalPrice": 386900,
+              "stock": 0,
+              "sku": "NM-p010-STD"
+            }
+          ]
+        },
+        {
+          "id": "p010-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p010.webp",
+          "offers": [
+            {
+              "id": "p010-v2-s1",
+              "sellerId": "s1",
+              "price": 260900,
+              "originalPrice": 398900,
+              "stock": 12,
+              "sku": "NM-p010-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+    },
+    {
+      "id": "p011",
+      "title": "Amazon Echo Plus",
+      "brand": "Amazon",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Amazon Echo Plus. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p011.webp"],
+      "rating": 4,
+      "reviewCount": 217,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P011"
+      },
+      "variants": [
+        {
+          "id": "p011-v1",
+          "name": "Standard",
+          "image": "/images/p011.webp",
+          "offers": [
+            {
+              "id": "p011-v1-s2",
+              "sellerId": "s2",
+              "price": 100900,
+              "originalPrice": 119600,
+              "stock": 8,
+              "sku": "NM-p011-STD"
+            }
+          ]
+        },
+        {
+          "id": "p011-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p011.webp",
+          "offers": [
+            {
+              "id": "p011-v2-s2",
+              "sellerId": "s2",
+              "price": 110900,
+              "originalPrice": 131600,
+              "stock": 3,
+              "sku": "NM-p011-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
+    },
+    {
+      "id": "p012",
+      "title": "Apple Airpods",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple Airpods. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p012.webp"],
+      "rating": 4.1,
+      "reviewCount": 390,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P012"
+      },
+      "variants": [
+        {
+          "id": "p012-v1",
+          "name": "Standard",
+          "image": "/images/p012.webp",
+          "offers": [
+            {
+              "id": "p012-v1-s2",
+              "sellerId": "s2",
+              "price": 130900,
+              "originalPrice": 164500,
+              "stock": 9,
+              "sku": "NM-p012-STD"
+            }
+          ]
+        },
+        {
+          "id": "p012-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p012.webp",
+          "offers": [
+            {
+              "id": "p012-v2-s2",
+              "sellerId": "s2",
+              "price": 140900,
+              "originalPrice": 176500,
+              "stock": 4,
+              "sku": "NM-p012-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
+    },
+    {
+      "id": "p013",
+      "title": "Apple AirPods Max Silver",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple AirPods Max Silver. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p013.webp"],
+      "rating": 4.2,
+      "reviewCount": 563,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P013"
+      },
+      "variants": [
+        {
+          "id": "p013-v1",
+          "name": "Standard",
+          "image": "/images/p013.webp",
+          "offers": [
+            {
+              "id": "p013-v1-s2",
+              "sellerId": "s2",
+              "price": 550900,
+              "originalPrice": 735400,
+              "stock": 10,
+              "sku": "NM-p013-STD"
+            }
+          ]
+        },
+        {
+          "id": "p013-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p013.webp",
+          "offers": [
+            {
+              "id": "p013-v2-s2",
+              "sellerId": "s2",
+              "price": 560900,
+              "originalPrice": 747400,
+              "stock": 5,
+              "sku": "NM-p013-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
+    },
+    {
+      "id": "p014",
+      "title": "Apple Airpower Wireless Charger",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple Airpower Wireless Charger. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p014.webp"],
+      "rating": 4.3,
+      "reviewCount": 736,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P014"
+      },
+      "variants": [
+        {
+          "id": "p014-v1",
+          "name": "Standard",
+          "image": "/images/p014.webp",
+          "offers": [
+            {
+              "id": "p014-v1-s2",
+              "sellerId": "s2",
+              "price": 80900,
+              "originalPrice": 116500,
+              "stock": 11,
+              "sku": "NM-p014-STD"
+            }
+          ]
+        },
+        {
+          "id": "p014-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p014.webp",
+          "offers": [
+            {
+              "id": "p014-v2-s2",
+              "sellerId": "s2",
+              "price": 90900,
+              "originalPrice": 128500,
+              "stock": 6,
+              "sku": "NM-p014-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp"
+    },
+    {
+      "id": "p015",
+      "title": "Apple HomePod Mini Cosmic Grey",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple HomePod Mini Cosmic Grey. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p015.webp"],
+      "rating": 4.4,
+      "reviewCount": 909,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P015"
+      },
+      "variants": [
+        {
+          "id": "p015-v1",
+          "name": "Standard",
+          "image": "/images/p015.webp",
+          "offers": [
+            {
+              "id": "p015-v1-s2",
+              "sellerId": "s2",
+              "price": 100900,
+              "originalPrice": 156100,
+              "stock": 12,
+              "sku": "NM-p015-STD"
+            }
+          ]
+        },
+        {
+          "id": "p015-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p015.webp",
+          "offers": [
+            {
+              "id": "p015-v2-s2",
+              "sellerId": "s2",
+              "price": 110900,
+              "originalPrice": 168100,
+              "stock": 7,
+              "sku": "NM-p015-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp"
+    },
+    {
+      "id": "p016",
+      "title": "Apple iPhone Charger",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple iPhone Charger. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p016.webp"],
+      "rating": 4.5,
+      "reviewCount": 1082,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P016"
+      },
+      "variants": [
+        {
+          "id": "p016-v1",
+          "name": "Standard",
+          "image": "/images/p016.webp",
+          "offers": [
+            {
+              "id": "p016-v1-s2",
+              "sellerId": "s2",
+              "price": 20900,
+              "originalPrice": 25500,
+              "stock": 13,
+              "sku": "NM-p016-STD"
+            }
+          ]
+        },
+        {
+          "id": "p016-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p016.webp",
+          "offers": [
+            {
+              "id": "p016-v2-s2",
+              "sellerId": "s2",
+              "price": 30900,
+              "originalPrice": 37500,
+              "stock": 8,
+              "sku": "NM-p016-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp"
+    },
+    {
+      "id": "p017",
+      "title": "Apple MagSafe Battery Pack",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple MagSafe Battery Pack. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p017.webp"],
+      "rating": 4.6,
+      "reviewCount": 1255,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P017"
+      },
+      "variants": [
+        {
+          "id": "p017-v1",
+          "name": "Standard",
+          "image": "/images/p017.webp",
+          "offers": [
+            {
+              "id": "p017-v1-s2",
+              "sellerId": "s2",
+              "price": 100900,
+              "originalPrice": 127000,
+              "stock": 14,
+              "sku": "NM-p017-STD"
+            }
+          ]
+        },
+        {
+          "id": "p017-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p017.webp",
+          "offers": [
+            {
+              "id": "p017-v2-s2",
+              "sellerId": "s2",
+              "price": 110900,
+              "originalPrice": 139000,
+              "stock": 9,
+              "sku": "NM-p017-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp"
+    },
+    {
+      "id": "p018",
+      "title": "Apple Watch Series 4 Gold",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Apple Watch Series 4 Gold. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p018.webp"],
+      "rating": 4.7,
+      "reviewCount": 1428,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P018"
+      },
+      "variants": [
+        {
+          "id": "p018-v1",
+          "name": "Standard",
+          "image": "/images/p018.webp",
+          "offers": [
+            {
+              "id": "p018-v1-s2",
+              "sellerId": "s2",
+              "price": 350900,
+              "originalPrice": 468800,
+              "stock": 15,
+              "sku": "NM-p018-STD"
+            }
+          ]
+        },
+        {
+          "id": "p018-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p018.webp",
+          "offers": [
+            {
+              "id": "p018-v2-s2",
+              "sellerId": "s2",
+              "price": 360900,
+              "originalPrice": 480800,
+              "stock": 10,
+              "sku": "NM-p018-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
+    },
+    {
+      "id": "p019",
+      "title": "Beats Flex Wireless Earphones",
+      "brand": "Beats",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck Beats Flex Wireless Earphones. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p019.webp"],
+      "rating": 4.8,
+      "reviewCount": 1601,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P019"
+      },
+      "variants": [
+        {
+          "id": "p019-v1",
+          "name": "Standard",
+          "image": "/images/p019.webp",
+          "offers": [
+            {
+              "id": "p019-v1-s2",
+              "sellerId": "s2",
+              "price": 50900,
+              "originalPrice": 73600,
+              "stock": 16,
+              "sku": "NM-p019-STD"
+            }
+          ]
+        },
+        {
+          "id": "p019-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p019.webp",
+          "offers": [
+            {
+              "id": "p019-v2-s2",
+              "sellerId": "s2",
+              "price": 60900,
+              "originalPrice": 85600,
+              "stock": 11,
+              "sku": "NM-p019-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
+    },
+    {
+      "id": "p020",
+      "title": "iPhone 12 Silicone Case with MagSafe Plum",
+      "brand": "Apple",
+      "categoryId": "mobiltillbehor",
+      "description": "Upptäck iPhone 12 Silicone Case with MagSafe Plum. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p020.webp"],
+      "rating": 4.9,
+      "reviewCount": 1774,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P020"
+      },
+      "variants": [
+        {
+          "id": "p020-v1",
+          "name": "Standard",
+          "image": "/images/p020.webp",
+          "offers": [
+            {
+              "id": "p020-v1-s2",
+              "sellerId": "s2",
+              "price": 30900,
+              "originalPrice": 48400,
+              "stock": 0,
+              "sku": "NM-p020-STD"
+            }
+          ]
+        },
+        {
+          "id": "p020-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p020.webp",
+          "offers": [
+            {
+              "id": "p020-v2-s2",
+              "sellerId": "s2",
+              "price": 40900,
+              "originalPrice": 60400,
+              "stock": 12,
+              "sku": "NM-p020-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp"
+    },
+    {
+      "id": "p021",
+      "title": "Annibale Colombo Bed",
+      "brand": "Annibale Colombo",
+      "categoryId": "hem",
+      "description": "Upptäck Annibale Colombo Bed. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p021.webp"],
+      "rating": 4,
+      "reviewCount": 306,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P021"
+      },
+      "variants": [
+        {
+          "id": "p021-v1",
+          "name": "Standard",
+          "image": "/images/p021.webp",
+          "offers": [
+            {
+              "id": "p021-v1-s3",
+              "sellerId": "s3",
+              "price": 1900900,
+              "originalPrice": 2237300,
+              "stock": 8,
+              "sku": "NM-p021-STD"
+            }
+          ]
+        },
+        {
+          "id": "p021-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p021.webp",
+          "offers": [
+            {
+              "id": "p021-v2-s3",
+              "sellerId": "s3",
+              "price": 1910900,
+              "originalPrice": 2249300,
+              "stock": 3,
+              "sku": "NM-p021-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
+    },
+    {
+      "id": "p022",
+      "title": "Annibale Colombo Sofa",
+      "brand": "Annibale Colombo",
+      "categoryId": "hem",
+      "description": "Upptäck Annibale Colombo Sofa. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p022.webp"],
+      "rating": 4.1,
+      "reviewCount": 479,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P022"
+      },
+      "variants": [
+        {
+          "id": "p022-v1",
+          "name": "Standard",
+          "image": "/images/p022.webp",
+          "offers": [
+            {
+              "id": "p022-v1-s3",
+              "sellerId": "s3",
+              "price": 2500900,
+              "originalPrice": 3127000,
+              "stock": 9,
+              "sku": "NM-p022-STD"
+            }
+          ]
+        },
+        {
+          "id": "p022-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p022.webp",
+          "offers": [
+            {
+              "id": "p022-v2-s3",
+              "sellerId": "s3",
+              "price": 2510900,
+              "originalPrice": 3139000,
+              "stock": 4,
+              "sku": "NM-p022-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+    },
+    {
+      "id": "p023",
+      "title": "Bedside Table African Cherry",
+      "brand": "Furniture Co.",
+      "categoryId": "hem",
+      "description": "Upptäck Bedside Table African Cherry. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p023.webp"],
+      "rating": 4.2,
+      "reviewCount": 652,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P023"
+      },
+      "variants": [
+        {
+          "id": "p023-v1",
+          "name": "Standard",
+          "image": "/images/p023.webp",
+          "offers": [
+            {
+              "id": "p023-v1-s3",
+              "sellerId": "s3",
+              "price": 300900,
+              "originalPrice": 402100,
+              "stock": 10,
+              "sku": "NM-p023-STD"
+            }
+          ]
+        },
+        {
+          "id": "p023-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p023.webp",
+          "offers": [
+            {
+              "id": "p023-v2-s3",
+              "sellerId": "s3",
+              "price": 310900,
+              "originalPrice": 414100,
+              "stock": 5,
+              "sku": "NM-p023-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+    },
+    {
+      "id": "p024",
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "brand": "Knoll",
+      "categoryId": "hem",
+      "description": "Upptäck Knoll Saarinen Executive Conference Chair. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p024.webp"],
+      "rating": 4.3,
+      "reviewCount": 825,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P024"
+      },
+      "variants": [
+        {
+          "id": "p024-v1",
+          "name": "Standard",
+          "image": "/images/p024.webp",
+          "offers": [
+            {
+              "id": "p024-v1-s3",
+              "sellerId": "s3",
+              "price": 500900,
+              "originalPrice": 716500,
+              "stock": 11,
+              "sku": "NM-p024-STD"
+            }
+          ]
+        },
+        {
+          "id": "p024-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p024.webp",
+          "offers": [
+            {
+              "id": "p024-v2-s3",
+              "sellerId": "s3",
+              "price": 510900,
+              "originalPrice": 728500,
+              "stock": 6,
+              "sku": "NM-p024-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
+    },
+    {
+      "id": "p025",
+      "title": "Wooden Bathroom Sink With Mirror",
+      "brand": "Bath Trends",
+      "categoryId": "hem",
+      "description": "Upptäck Wooden Bathroom Sink With Mirror. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p025.webp"],
+      "rating": 4.4,
+      "reviewCount": 998,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P025"
+      },
+      "variants": [
+        {
+          "id": "p025-v1",
+          "name": "Standard",
+          "image": "/images/p025.webp",
+          "offers": [
+            {
+              "id": "p025-v1-s3",
+              "sellerId": "s3",
+              "price": 800900,
+              "originalPrice": 1233100,
+              "stock": 12,
+              "sku": "NM-p025-STD"
+            }
+          ]
+        },
+        {
+          "id": "p025-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p025.webp",
+          "offers": [
+            {
+              "id": "p025-v2-s3",
+              "sellerId": "s3",
+              "price": 810900,
+              "originalPrice": 1245100,
+              "stock": 7,
+              "sku": "NM-p025-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": "p026",
+      "title": "Decoration Swing",
+      "brand": "Nordmark",
+      "categoryId": "hem",
+      "description": "Upptäck Decoration Swing. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p026.webp"],
+      "rating": 4.5,
+      "reviewCount": 1171,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P026"
+      },
+      "variants": [
+        {
+          "id": "p026-v1",
+          "name": "Standard",
+          "image": "/images/p026.webp",
+          "offers": [
+            {
+              "id": "p026-v1-s3",
+              "sellerId": "s3",
+              "price": 60900,
+              "originalPrice": 72500,
+              "stock": 13,
+              "sku": "NM-p026-STD"
+            }
+          ]
+        },
+        {
+          "id": "p026-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p026.webp",
+          "offers": [
+            {
+              "id": "p026-v2-s3",
+              "sellerId": "s3",
+              "price": 70900,
+              "originalPrice": 84500,
+              "stock": 8,
+              "sku": "NM-p026-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp"
+    },
+    {
+      "id": "p027",
+      "title": "Family Tree Photo Frame",
+      "brand": "Nordmark",
+      "categoryId": "hem",
+      "description": "Upptäck Family Tree Photo Frame. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p027.webp"],
+      "rating": 4.6,
+      "reviewCount": 1344,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P027"
+      },
+      "variants": [
+        {
+          "id": "p027-v1",
+          "name": "Standard",
+          "image": "/images/p027.webp",
+          "offers": [
+            {
+              "id": "p027-v1-s3",
+              "sellerId": "s3",
+              "price": 30900,
+              "originalPrice": 39500,
+              "stock": 14,
+              "sku": "NM-p027-STD"
+            }
+          ]
+        },
+        {
+          "id": "p027-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p027.webp",
+          "offers": [
+            {
+              "id": "p027-v2-s3",
+              "sellerId": "s3",
+              "price": 40900,
+              "originalPrice": 51500,
+              "stock": 9,
+              "sku": "NM-p027-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp"
+    },
+    {
+      "id": "p028",
+      "title": "House Showpiece Plant",
+      "brand": "Nordmark",
+      "categoryId": "hem",
+      "description": "Upptäck House Showpiece Plant. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p028.webp"],
+      "rating": 4.7,
+      "reviewCount": 1517,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P028"
+      },
+      "variants": [
+        {
+          "id": "p028-v1",
+          "name": "Standard",
+          "image": "/images/p028.webp",
+          "offers": [
+            {
+              "id": "p028-v1-s3",
+              "sellerId": "s3",
+              "price": 40900,
+              "originalPrice": 55400,
+              "stock": 15,
+              "sku": "NM-p028-STD"
+            }
+          ]
+        },
+        {
+          "id": "p028-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p028.webp",
+          "offers": [
+            {
+              "id": "p028-v2-s3",
+              "sellerId": "s3",
+              "price": 50900,
+              "originalPrice": 67400,
+              "stock": 10,
+              "sku": "NM-p028-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp"
+    },
+    {
+      "id": "p029",
+      "title": "Plant Pot",
+      "brand": "Nordmark",
+      "categoryId": "hem",
+      "description": "Upptäck Plant Pot. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p029.webp"],
+      "rating": 4.8,
+      "reviewCount": 1690,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P029"
+      },
+      "variants": [
+        {
+          "id": "p029-v1",
+          "name": "Standard",
+          "image": "/images/p029.webp",
+          "offers": [
+            {
+              "id": "p029-v1-s3",
+              "sellerId": "s3",
+              "price": 15900,
+              "originalPrice": 23600,
+              "stock": 16,
+              "sku": "NM-p029-STD"
+            }
+          ]
+        },
+        {
+          "id": "p029-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p029.webp",
+          "offers": [
+            {
+              "id": "p029-v2-s3",
+              "sellerId": "s3",
+              "price": 25900,
+              "originalPrice": 35600,
+              "stock": 11,
+              "sku": "NM-p029-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp"
+    },
+    {
+      "id": "p030",
+      "title": "Table Lamp",
+      "brand": "Nordmark",
+      "categoryId": "hem",
+      "description": "Upptäck Table Lamp. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p030.webp"],
+      "rating": 4.9,
+      "reviewCount": 1863,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P030"
+      },
+      "variants": [
+        {
+          "id": "p030-v1",
+          "name": "Standard",
+          "image": "/images/p030.webp",
+          "offers": [
+            {
+              "id": "p030-v1-s3",
+              "sellerId": "s3",
+              "price": 50900,
+              "originalPrice": 79200,
+              "stock": 0,
+              "sku": "NM-p030-STD"
+            }
+          ]
+        },
+        {
+          "id": "p030-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p030.webp",
+          "offers": [
+            {
+              "id": "p030-v2-s3",
+              "sellerId": "s3",
+              "price": 60900,
+              "originalPrice": 91200,
+              "stock": 12,
+              "sku": "NM-p030-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp"
+    },
+    {
+      "id": "p031",
+      "title": "Bamboo Spatula",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Bamboo Spatula. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p031.webp"],
+      "rating": 4,
+      "reviewCount": 395,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "3 kg",
+        "SKU": "NM-P031"
+      },
+      "variants": [
+        {
+          "id": "p031-v1",
+          "name": "Standard",
+          "image": "/images/p031.webp",
+          "offers": [
+            {
+              "id": "p031-v1-s4",
+              "sellerId": "s4",
+              "price": 8900,
+              "originalPrice": 11400,
+              "stock": 8,
+              "sku": "NM-p031-STD"
+            }
+          ]
+        },
+        {
+          "id": "p031-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p031.webp",
+          "offers": [
+            {
+              "id": "p031-v2-s4",
+              "sellerId": "s4",
+              "price": 18900,
+              "originalPrice": 23400,
+              "stock": 3,
+              "sku": "NM-p031-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp"
+    },
+    {
+      "id": "p032",
+      "title": "Black Aluminium Cup",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Black Aluminium Cup. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p032.webp"],
+      "rating": 4.1,
+      "reviewCount": 568,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P032"
+      },
+      "variants": [
+        {
+          "id": "p032-v1",
+          "name": "Standard",
+          "image": "/images/p032.webp",
+          "offers": [
+            {
+              "id": "p032-v1-s4",
+              "sellerId": "s4",
+              "price": 6900,
+              "originalPrice": 9500,
+              "stock": 9,
+              "sku": "NM-p032-STD"
+            }
+          ]
+        },
+        {
+          "id": "p032-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p032.webp",
+          "offers": [
+            {
+              "id": "p032-v2-s4",
+              "sellerId": "s4",
+              "price": 16900,
+              "originalPrice": 21500,
+              "stock": 4,
+              "sku": "NM-p032-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp"
+    },
+    {
+      "id": "p033",
+      "title": "Black Whisk",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Black Whisk. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p033.webp"],
+      "rating": 4.2,
+      "reviewCount": 741,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P033"
+      },
+      "variants": [
+        {
+          "id": "p033-v1",
+          "name": "Standard",
+          "image": "/images/p033.webp",
+          "offers": [
+            {
+              "id": "p033-v1-s4",
+              "sellerId": "s4",
+              "price": 10900,
+              "originalPrice": 15400,
+              "stock": 10,
+              "sku": "NM-p033-STD"
+            }
+          ]
+        },
+        {
+          "id": "p033-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p033.webp",
+          "offers": [
+            {
+              "id": "p033-v2-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 27400,
+              "stock": 5,
+              "sku": "NM-p033-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+    },
+    {
+      "id": "p034",
+      "title": "Boxed Blender",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Boxed Blender. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p034.webp"],
+      "rating": 4.3,
+      "reviewCount": 914,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P034"
+      },
+      "variants": [
+        {
+          "id": "p034-v1",
+          "name": "Standard",
+          "image": "/images/p034.webp",
+          "offers": [
+            {
+              "id": "p034-v1-s4",
+              "sellerId": "s4",
+              "price": 40900,
+              "originalPrice": 59300,
+              "stock": 11,
+              "sku": "NM-p034-STD"
+            }
+          ]
+        },
+        {
+          "id": "p034-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p034.webp",
+          "offers": [
+            {
+              "id": "p034-v2-s4",
+              "sellerId": "s4",
+              "price": 50900,
+              "originalPrice": 71300,
+              "stock": 6,
+              "sku": "NM-p034-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp"
+    },
+    {
+      "id": "p035",
+      "title": "Carbon Steel Wok",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Carbon Steel Wok. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p035.webp"],
+      "rating": 4.4,
+      "reviewCount": 1087,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P035"
+      },
+      "variants": [
+        {
+          "id": "p035-v1",
+          "name": "Standard",
+          "image": "/images/p035.webp",
+          "offers": [
+            {
+              "id": "p035-v1-s4",
+              "sellerId": "s4",
+              "price": 30900,
+              "originalPrice": 48400,
+              "stock": 12,
+              "sku": "NM-p035-STD"
+            }
+          ]
+        },
+        {
+          "id": "p035-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p035.webp",
+          "offers": [
+            {
+              "id": "p035-v2-s4",
+              "sellerId": "s4",
+              "price": 40900,
+              "originalPrice": 60400,
+              "stock": 7,
+              "sku": "NM-p035-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp"
+    },
+    {
+      "id": "p036",
+      "title": "Chopping Board",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Chopping Board. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p036.webp"],
+      "rating": 4.5,
+      "reviewCount": 1260,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P036"
+      },
+      "variants": [
+        {
+          "id": "p036-v1",
+          "name": "Standard",
+          "image": "/images/p036.webp",
+          "offers": [
+            {
+              "id": "p036-v1-s4",
+              "sellerId": "s4",
+              "price": 13900,
+              "originalPrice": 17300,
+              "stock": 13,
+              "sku": "NM-p036-STD"
+            }
+          ]
+        },
+        {
+          "id": "p036-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p036.webp",
+          "offers": [
+            {
+              "id": "p036-v2-s4",
+              "sellerId": "s4",
+              "price": 23900,
+              "originalPrice": 29300,
+              "stock": 8,
+              "sku": "NM-p036-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp"
+    },
+    {
+      "id": "p037",
+      "title": "Citrus Squeezer Yellow",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Citrus Squeezer Yellow. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p037.webp"],
+      "rating": 4.6,
+      "reviewCount": 1433,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P037"
+      },
+      "variants": [
+        {
+          "id": "p037-v1",
+          "name": "Standard",
+          "image": "/images/p037.webp",
+          "offers": [
+            {
+              "id": "p037-v1-s4",
+              "sellerId": "s4",
+              "price": 9900,
+              "originalPrice": 13300,
+              "stock": 14,
+              "sku": "NM-p037-STD"
+            }
+          ]
+        },
+        {
+          "id": "p037-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p037.webp",
+          "offers": [
+            {
+              "id": "p037-v2-s4",
+              "sellerId": "s4",
+              "price": 19900,
+              "originalPrice": 25300,
+              "stock": 9,
+              "sku": "NM-p037-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp"
+    },
+    {
+      "id": "p038",
+      "title": "Egg Slicer",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Egg Slicer. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p038.webp"],
+      "rating": 4.7,
+      "reviewCount": 1606,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P038"
+      },
+      "variants": [
+        {
+          "id": "p038-v1",
+          "name": "Standard",
+          "image": "/images/p038.webp",
+          "offers": [
+            {
+              "id": "p038-v1-s4",
+              "sellerId": "s4",
+              "price": 7900,
+              "originalPrice": 11400,
+              "stock": 15,
+              "sku": "NM-p038-STD"
+            }
+          ]
+        },
+        {
+          "id": "p038-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p038.webp",
+          "offers": [
+            {
+              "id": "p038-v2-s4",
+              "sellerId": "s4",
+              "price": 17900,
+              "originalPrice": 23400,
+              "stock": 10,
+              "sku": "NM-p038-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp"
+    },
+    {
+      "id": "p039",
+      "title": "Electric Stove",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Electric Stove. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p039.webp"],
+      "rating": 4.8,
+      "reviewCount": 1779,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P039"
+      },
+      "variants": [
+        {
+          "id": "p039-v1",
+          "name": "Standard",
+          "image": "/images/p039.webp",
+          "offers": [
+            {
+              "id": "p039-v1-s4",
+              "sellerId": "s4",
+              "price": 50900,
+              "originalPrice": 73600,
+              "stock": 16,
+              "sku": "NM-p039-STD"
+            }
+          ]
+        },
+        {
+          "id": "p039-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p039.webp",
+          "offers": [
+            {
+              "id": "p039-v2-s4",
+              "sellerId": "s4",
+              "price": 60900,
+              "originalPrice": 85600,
+              "stock": 11,
+              "sku": "NM-p039-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp"
+    },
+    {
+      "id": "p040",
+      "title": "Fine Mesh Strainer",
+      "brand": "Nordic Living",
+      "categoryId": "kok",
+      "description": "Upptäck Fine Mesh Strainer. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p040.webp"],
+      "rating": 4.9,
+      "reviewCount": 1952,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P040"
+      },
+      "variants": [
+        {
+          "id": "p040-v1",
+          "name": "Standard",
+          "image": "/images/p040.webp",
+          "offers": [
+            {
+              "id": "p040-v1-s4",
+              "sellerId": "s4",
+              "price": 10900,
+              "originalPrice": 17700,
+              "stock": 0,
+              "sku": "NM-p040-STD"
+            }
+          ]
+        },
+        {
+          "id": "p040-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p040.webp",
+          "offers": [
+            {
+              "id": "p040-v2-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 29700,
+              "stock": 12,
+              "sku": "NM-p040-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp"
+    },
+    {
+      "id": "p041",
+      "title": "Blue & Black Check Shirt",
+      "brand": "Fashion Trends",
+      "categoryId": "herrmode",
+      "description": "Upptäck Blue & Black Check Shirt. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p041.webp"],
+      "rating": 4,
+      "reviewCount": 484,
+      "attributes": {
+        "Material": "Bomull",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P041"
+      },
+      "variants": [
+        {
+          "id": "p041-v1",
+          "name": "Standard",
+          "image": "/images/p041.webp",
+          "offers": [
+            {
+              "id": "p041-v1-s5",
+              "sellerId": "s5",
+              "price": 30900,
+              "originalPrice": 37300,
+              "stock": 8,
+              "sku": "NM-p041-STD"
+            }
+          ]
+        },
+        {
+          "id": "p041-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p041.webp",
+          "offers": [
+            {
+              "id": "p041-v2-s5",
+              "sellerId": "s5",
+              "price": 40900,
+              "originalPrice": 49300,
+              "stock": 3,
+              "sku": "NM-p041-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+    },
+    {
+      "id": "p042",
+      "title": "Gigabyte Aorus Men Tshirt",
+      "brand": "Gigabyte",
+      "categoryId": "herrmode",
+      "description": "Upptäck Gigabyte Aorus Men Tshirt. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p042.webp"],
+      "rating": 4.1,
+      "reviewCount": 657,
+      "attributes": {
+        "Material": "Bomull",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P042"
+      },
+      "variants": [
+        {
+          "id": "p042-v1",
+          "name": "Standard",
+          "image": "/images/p042.webp",
+          "offers": [
+            {
+              "id": "p042-v1-s5",
+              "sellerId": "s5",
+              "price": 25900,
+              "originalPrice": 33300,
+              "stock": 9,
+              "sku": "NM-p042-STD"
+            }
+          ]
+        },
+        {
+          "id": "p042-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p042.webp",
+          "offers": [
+            {
+              "id": "p042-v2-s5",
+              "sellerId": "s5",
+              "price": 35900,
+              "originalPrice": 45300,
+              "stock": 4,
+              "sku": "NM-p042-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp"
+    },
+    {
+      "id": "p043",
+      "title": "Man Plaid Shirt",
+      "brand": "Classic Wear",
+      "categoryId": "herrmode",
+      "description": "Upptäck Man Plaid Shirt. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p043.webp"],
+      "rating": 4.2,
+      "reviewCount": 830,
+      "attributes": {
+        "Material": "Bomull",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "3 kg",
+        "SKU": "NM-P043"
+      },
+      "variants": [
+        {
+          "id": "p043-v1",
+          "name": "Standard",
+          "image": "/images/p043.webp",
+          "offers": [
+            {
+              "id": "p043-v1-s5",
+              "sellerId": "s5",
+              "price": 35900,
+              "originalPrice": 48800,
+              "stock": 10,
+              "sku": "NM-p043-STD"
+            }
+          ]
+        },
+        {
+          "id": "p043-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p043.webp",
+          "offers": [
+            {
+              "id": "p043-v2-s5",
+              "sellerId": "s5",
+              "price": 45900,
+              "originalPrice": 60800,
+              "stock": 5,
+              "sku": "NM-p043-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
+    },
+    {
+      "id": "p044",
+      "title": "Man Short Sleeve Shirt",
+      "brand": "Casual Comfort",
+      "categoryId": "herrmode",
+      "description": "Upptäck Man Short Sleeve Shirt. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p044.webp"],
+      "rating": 4.3,
+      "reviewCount": 1003,
+      "attributes": {
+        "Material": "Bomull",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P044"
+      },
+      "variants": [
+        {
+          "id": "p044-v1",
+          "name": "Standard",
+          "image": "/images/p044.webp",
+          "offers": [
+            {
+              "id": "p044-v1-s5",
+              "sellerId": "s5",
+              "price": 20900,
+              "originalPrice": 30800,
+              "stock": 11,
+              "sku": "NM-p044-STD"
+            }
+          ]
+        },
+        {
+          "id": "p044-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p044.webp",
+          "offers": [
+            {
+              "id": "p044-v2-s5",
+              "sellerId": "s5",
+              "price": 30900,
+              "originalPrice": 42800,
+              "stock": 6,
+              "sku": "NM-p044-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp"
+    },
+    {
+      "id": "p045",
+      "title": "Men Check Shirt",
+      "brand": "Urban Chic",
+      "categoryId": "herrmode",
+      "description": "Upptäck Men Check Shirt. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p045.webp"],
+      "rating": 4.4,
+      "reviewCount": 1176,
+      "attributes": {
+        "Material": "Bomull",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P045"
+      },
+      "variants": [
+        {
+          "id": "p045-v1",
+          "name": "Standard",
+          "image": "/images/p045.webp",
+          "offers": [
+            {
+              "id": "p045-v1-s5",
+              "sellerId": "s5",
+              "price": 28900,
+              "originalPrice": 45400,
+              "stock": 12,
+              "sku": "NM-p045-STD"
+            }
+          ]
+        },
+        {
+          "id": "p045-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p045.webp",
+          "offers": [
+            {
+              "id": "p045-v2-s5",
+              "sellerId": "s5",
+              "price": 38900,
+              "originalPrice": 57400,
+              "stock": 7,
+              "sku": "NM-p045-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
+    },
+    {
+      "id": "p046",
+      "title": "Brown Leather Belt Watch",
+      "brand": "Fashion Timepieces",
+      "categoryId": "herrmode",
+      "description": "Upptäck Brown Leather Belt Watch. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p046.webp"],
+      "rating": 4.5,
+      "reviewCount": 1349,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P046"
+      },
+      "variants": [
+        {
+          "id": "p046-v1",
+          "name": "Standard",
+          "image": "/images/p046.webp",
+          "offers": [
+            {
+              "id": "p046-v1-s5",
+              "sellerId": "s5",
+              "price": 90900,
+              "originalPrice": 107800,
+              "stock": 13,
+              "sku": "NM-p046-STD"
+            }
+          ]
+        },
+        {
+          "id": "p046-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p046.webp",
+          "offers": [
+            {
+              "id": "p046-v2-s5",
+              "sellerId": "s5",
+              "price": 100900,
+              "originalPrice": 119800,
+              "stock": 8,
+              "sku": "NM-p046-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp"
+    },
+    {
+      "id": "p047",
+      "title": "Longines Master Collection",
+      "brand": "Longines",
+      "categoryId": "herrmode",
+      "description": "Upptäck Longines Master Collection. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p047.webp"],
+      "rating": 4.6,
+      "reviewCount": 1522,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P047"
+      },
+      "variants": [
+        {
+          "id": "p047-v1",
+          "name": "Standard",
+          "image": "/images/p047.webp",
+          "offers": [
+            {
+              "id": "p047-v1-s5",
+              "sellerId": "s5",
+              "price": 1500900,
+              "originalPrice": 1877000,
+              "stock": 14,
+              "sku": "NM-p047-STD"
+            }
+          ]
+        },
+        {
+          "id": "p047-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p047.webp",
+          "offers": [
+            {
+              "id": "p047-v2-s5",
+              "sellerId": "s5",
+              "price": 1510900,
+              "originalPrice": 1889000,
+              "stock": 9,
+              "sku": "NM-p047-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp"
+    },
+    {
+      "id": "p048",
+      "title": "Rolex Cellini Date Black Dial",
+      "brand": "Rolex",
+      "categoryId": "herrmode",
+      "description": "Upptäck Rolex Cellini Date Black Dial. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p048.webp"],
+      "rating": 4.7,
+      "reviewCount": 1695,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P048"
+      },
+      "variants": [
+        {
+          "id": "p048-v1",
+          "name": "Standard",
+          "image": "/images/p048.webp",
+          "offers": [
+            {
+              "id": "p048-v1-s5",
+              "sellerId": "s5",
+              "price": 9000900,
+              "originalPrice": 12002100,
+              "stock": 15,
+              "sku": "NM-p048-STD"
+            }
+          ]
+        },
+        {
+          "id": "p048-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p048.webp",
+          "offers": [
+            {
+              "id": "p048-v2-s5",
+              "sellerId": "s5",
+              "price": 9010900,
+              "originalPrice": 12014100,
+              "stock": 10,
+              "sku": "NM-p048-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp"
+    },
+    {
+      "id": "p049",
+      "title": "Rolex Cellini Moonphase",
+      "brand": "Rolex",
+      "categoryId": "herrmode",
+      "description": "Upptäck Rolex Cellini Moonphase. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p049.webp"],
+      "rating": 4.8,
+      "reviewCount": 1868,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P049"
+      },
+      "variants": [
+        {
+          "id": "p049-v1",
+          "name": "Standard",
+          "image": "/images/p049.webp",
+          "offers": [
+            {
+              "id": "p049-v1-s5",
+              "sellerId": "s5",
+              "price": 13000900,
+              "originalPrice": 18573600,
+              "stock": 16,
+              "sku": "NM-p049-STD"
+            }
+          ]
+        },
+        {
+          "id": "p049-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p049.webp",
+          "offers": [
+            {
+              "id": "p049-v2-s5",
+              "sellerId": "s5",
+              "price": 13010900,
+              "originalPrice": 18585600,
+              "stock": 11,
+              "sku": "NM-p049-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp"
+    },
+    {
+      "id": "p050",
+      "title": "Rolex Datejust",
+      "brand": "Rolex",
+      "categoryId": "herrmode",
+      "description": "Upptäck Rolex Datejust. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p050.webp"],
+      "rating": 4.9,
+      "reviewCount": 2041,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P050"
+      },
+      "variants": [
+        {
+          "id": "p050-v1",
+          "name": "Standard",
+          "image": "/images/p050.webp",
+          "offers": [
+            {
+              "id": "p050-v1-s5",
+              "sellerId": "s5",
+              "price": 11000900,
+              "originalPrice": 16925400,
+              "stock": 0,
+              "sku": "NM-p050-STD"
+            }
+          ]
+        },
+        {
+          "id": "p050-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p050.webp",
+          "offers": [
+            {
+              "id": "p050-v2-s5",
+              "sellerId": "s5",
+              "price": 11010900,
+              "originalPrice": 16937400,
+              "stock": 12,
+              "sku": "NM-p050-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp"
+    },
+    {
+      "id": "p051",
+      "title": "Blue Frock",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Blue Frock. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p051.webp"],
+      "rating": 4,
+      "reviewCount": 573,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P051"
+      },
+      "variants": [
+        {
+          "id": "p051-v1",
+          "name": "Standard",
+          "image": "/images/p051.webp",
+          "offers": [
+            {
+              "id": "p051-v1-s1",
+              "sellerId": "s1",
+              "price": 30900,
+              "originalPrice": 37300,
+              "stock": 8,
+              "sku": "NM-p051-STD"
+            }
+          ]
+        },
+        {
+          "id": "p051-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p051.webp",
+          "offers": [
+            {
+              "id": "p051-v2-s1",
+              "sellerId": "s1",
+              "price": 40900,
+              "originalPrice": 49300,
+              "stock": 3,
+              "sku": "NM-p051-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp"
+    },
+    {
+      "id": "p052",
+      "title": "Girl Summer Dress",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Girl Summer Dress. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p052.webp"],
+      "rating": 4.1,
+      "reviewCount": 746,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P052"
+      },
+      "variants": [
+        {
+          "id": "p052-v1",
+          "name": "Standard",
+          "image": "/images/p052.webp",
+          "offers": [
+            {
+              "id": "p052-v1-s1",
+              "sellerId": "s1",
+              "price": 20900,
+              "originalPrice": 27000,
+              "stock": 9,
+              "sku": "NM-p052-STD"
+            }
+          ]
+        },
+        {
+          "id": "p052-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p052.webp",
+          "offers": [
+            {
+              "id": "p052-v2-s1",
+              "sellerId": "s1",
+              "price": 30900,
+              "originalPrice": 39000,
+              "stock": 4,
+              "sku": "NM-p052-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp"
+    },
+    {
+      "id": "p053",
+      "title": "Gray Dress",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Gray Dress. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p053.webp"],
+      "rating": 4.2,
+      "reviewCount": 919,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P053"
+      },
+      "variants": [
+        {
+          "id": "p053-v1",
+          "name": "Standard",
+          "image": "/images/p053.webp",
+          "offers": [
+            {
+              "id": "p053-v1-s1",
+              "sellerId": "s1",
+              "price": 35900,
+              "originalPrice": 48800,
+              "stock": 10,
+              "sku": "NM-p053-STD"
+            }
+          ]
+        },
+        {
+          "id": "p053-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p053.webp",
+          "offers": [
+            {
+              "id": "p053-v2-s1",
+              "sellerId": "s1",
+              "price": 45900,
+              "originalPrice": 60800,
+              "stock": 5,
+              "sku": "NM-p053-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp"
+    },
+    {
+      "id": "p054",
+      "title": "Short Frock",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Short Frock. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p054.webp"],
+      "rating": 4.3,
+      "reviewCount": 1092,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P054"
+      },
+      "variants": [
+        {
+          "id": "p054-v1",
+          "name": "Standard",
+          "image": "/images/p054.webp",
+          "offers": [
+            {
+              "id": "p054-v1-s1",
+              "sellerId": "s1",
+              "price": 25900,
+              "originalPrice": 37900,
+              "stock": 11,
+              "sku": "NM-p054-STD"
+            }
+          ]
+        },
+        {
+          "id": "p054-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p054.webp",
+          "offers": [
+            {
+              "id": "p054-v2-s1",
+              "sellerId": "s1",
+              "price": 35900,
+              "originalPrice": 49900,
+              "stock": 6,
+              "sku": "NM-p054-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/tops/short-frock/thumbnail.webp"
+    },
+    {
+      "id": "p055",
+      "title": "Tartan Dress",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Tartan Dress. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p055.webp"],
+      "rating": 4.4,
+      "reviewCount": 1265,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P055"
+      },
+      "variants": [
+        {
+          "id": "p055-v1",
+          "name": "Standard",
+          "image": "/images/p055.webp",
+          "offers": [
+            {
+              "id": "p055-v1-s1",
+              "sellerId": "s1",
+              "price": 40900,
+              "originalPrice": 63800,
+              "stock": 12,
+              "sku": "NM-p055-STD"
+            }
+          ]
+        },
+        {
+          "id": "p055-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p055.webp",
+          "offers": [
+            {
+              "id": "p055-v2-s1",
+              "sellerId": "s1",
+              "price": 50900,
+              "originalPrice": 75800,
+              "stock": 7,
+              "sku": "NM-p055-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp"
+    },
+    {
+      "id": "p056",
+      "title": "Black Women's Gown",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Black Women's Gown. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p056.webp"],
+      "rating": 4.5,
+      "reviewCount": 1438,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P056"
+      },
+      "variants": [
+        {
+          "id": "p056-v1",
+          "name": "Standard",
+          "image": "/images/p056.webp",
+          "offers": [
+            {
+              "id": "p056-v1-s1",
+              "sellerId": "s1",
+              "price": 130900,
+              "originalPrice": 154900,
+              "stock": 13,
+              "sku": "NM-p056-STD"
+            }
+          ]
+        },
+        {
+          "id": "p056-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p056.webp",
+          "offers": [
+            {
+              "id": "p056-v2-s1",
+              "sellerId": "s1",
+              "price": 140900,
+              "originalPrice": 166900,
+              "stock": 8,
+              "sku": "NM-p056-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/thumbnail.webp"
+    },
+    {
+      "id": "p057",
+      "title": "Corset Leather With Skirt",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Corset Leather With Skirt. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p057.webp"],
+      "rating": 4.6,
+      "reviewCount": 1611,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P057"
+      },
+      "variants": [
+        {
+          "id": "p057-v1",
+          "name": "Standard",
+          "image": "/images/p057.webp",
+          "offers": [
+            {
+              "id": "p057-v1-s1",
+              "sellerId": "s1",
+              "price": 90900,
+              "originalPrice": 114500,
+              "stock": 14,
+              "sku": "NM-p057-STD"
+            }
+          ]
+        },
+        {
+          "id": "p057-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p057.webp",
+          "offers": [
+            {
+              "id": "p057-v2-s1",
+              "sellerId": "s1",
+              "price": 100900,
+              "originalPrice": 126500,
+              "stock": 9,
+              "sku": "NM-p057-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/thumbnail.webp"
+    },
+    {
+      "id": "p058",
+      "title": "Corset With Black Skirt",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Corset With Black Skirt. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p058.webp"],
+      "rating": 4.7,
+      "reviewCount": 1784,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P058"
+      },
+      "variants": [
+        {
+          "id": "p058-v1",
+          "name": "Standard",
+          "image": "/images/p058.webp",
+          "offers": [
+            {
+              "id": "p058-v1-s1",
+              "sellerId": "s1",
+              "price": 80900,
+              "originalPrice": 108800,
+              "stock": 15,
+              "sku": "NM-p058-STD"
+            }
+          ]
+        },
+        {
+          "id": "p058-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p058.webp",
+          "offers": [
+            {
+              "id": "p058-v2-s1",
+              "sellerId": "s1",
+              "price": 90900,
+              "originalPrice": 120800,
+              "stock": 10,
+              "sku": "NM-p058-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/thumbnail.webp"
+    },
+    {
+      "id": "p059",
+      "title": "Dress Pea",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Dress Pea. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p059.webp"],
+      "rating": 4.8,
+      "reviewCount": 1957,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P059"
+      },
+      "variants": [
+        {
+          "id": "p059-v1",
+          "name": "Standard",
+          "image": "/images/p059.webp",
+          "offers": [
+            {
+              "id": "p059-v1-s1",
+              "sellerId": "s1",
+              "price": 50900,
+              "originalPrice": 73600,
+              "stock": 16,
+              "sku": "NM-p059-STD"
+            }
+          ]
+        },
+        {
+          "id": "p059-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p059.webp",
+          "offers": [
+            {
+              "id": "p059-v2-s1",
+              "sellerId": "s1",
+              "price": 60900,
+              "originalPrice": 85600,
+              "stock": 11,
+              "sku": "NM-p059-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp"
+    },
+    {
+      "id": "p060",
+      "title": "Marni Red & Black Suit",
+      "brand": "Nordmark",
+      "categoryId": "dammode",
+      "description": "Upptäck Marni Red & Black Suit. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p060.webp"],
+      "rating": 4.9,
+      "reviewCount": 2130,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "3 kg",
+        "SKU": "NM-P060"
+      },
+      "variants": [
+        {
+          "id": "p060-v1",
+          "name": "Standard",
+          "image": "/images/p060.webp",
+          "offers": [
+            {
+              "id": "p060-v1-s1",
+              "sellerId": "s1",
+              "price": 180900,
+              "originalPrice": 279200,
+              "stock": 0,
+              "sku": "NM-p060-STD"
+            }
+          ]
+        },
+        {
+          "id": "p060-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p060.webp",
+          "offers": [
+            {
+              "id": "p060-v2-s1",
+              "sellerId": "s1",
+              "price": 190900,
+              "originalPrice": 291200,
+              "stock": 12,
+              "sku": "NM-p060-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp"
+    },
+    {
+      "id": "p061",
+      "title": "Nike Air Jordan 1 Red And Black",
+      "brand": "Nike",
+      "categoryId": "skor",
+      "description": "Upptäck Nike Air Jordan 1 Red And Black. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p061.webp"],
+      "rating": 4,
+      "reviewCount": 662,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "3 kg",
+        "SKU": "NM-P061"
+      },
+      "variants": [
+        {
+          "id": "p061-v1",
+          "name": "Standard",
+          "image": "/images/p061.webp",
+          "offers": [
+            {
+              "id": "p061-v1-s2",
+              "sellerId": "s2",
+              "price": 150900,
+              "originalPrice": 178400,
+              "stock": 8,
+              "sku": "NM-p061-STD"
+            }
+          ]
+        },
+        {
+          "id": "p061-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p061.webp",
+          "offers": [
+            {
+              "id": "p061-v2-s2",
+              "sellerId": "s2",
+              "price": 160900,
+              "originalPrice": 190400,
+              "stock": 3,
+              "sku": "NM-p061-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp"
+    },
+    {
+      "id": "p062",
+      "title": "Nike Baseball Cleats",
+      "brand": "Nike",
+      "categoryId": "skor",
+      "description": "Upptäck Nike Baseball Cleats. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p062.webp"],
+      "rating": 4.1,
+      "reviewCount": 835,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P062"
+      },
+      "variants": [
+        {
+          "id": "p062-v1",
+          "name": "Standard",
+          "image": "/images/p062.webp",
+          "offers": [
+            {
+              "id": "p062-v1-s2",
+              "sellerId": "s2",
+              "price": 80900,
+              "originalPrice": 102000,
+              "stock": 9,
+              "sku": "NM-p062-STD"
+            }
+          ]
+        },
+        {
+          "id": "p062-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p062.webp",
+          "offers": [
+            {
+              "id": "p062-v2-s2",
+              "sellerId": "s2",
+              "price": 90900,
+              "originalPrice": 114000,
+              "stock": 4,
+              "sku": "NM-p062-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp"
+    },
+    {
+      "id": "p063",
+      "title": "Puma Future Rider Trainers",
+      "brand": "Puma",
+      "categoryId": "skor",
+      "description": "Upptäck Puma Future Rider Trainers. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p063.webp"],
+      "rating": 4.2,
+      "reviewCount": 1008,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P063"
+      },
+      "variants": [
+        {
+          "id": "p063-v1",
+          "name": "Standard",
+          "image": "/images/p063.webp",
+          "offers": [
+            {
+              "id": "p063-v1-s2",
+              "sellerId": "s2",
+              "price": 90900,
+              "originalPrice": 122100,
+              "stock": 10,
+              "sku": "NM-p063-STD"
+            }
+          ]
+        },
+        {
+          "id": "p063-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p063.webp",
+          "offers": [
+            {
+              "id": "p063-v2-s2",
+              "sellerId": "s2",
+              "price": 100900,
+              "originalPrice": 134100,
+              "stock": 5,
+              "sku": "NM-p063-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
+    },
+    {
+      "id": "p064",
+      "title": "Sports Sneakers Off White & Red",
+      "brand": "Off White",
+      "categoryId": "skor",
+      "description": "Upptäck Sports Sneakers Off White & Red. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p064.webp"],
+      "rating": 4.3,
+      "reviewCount": 1181,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P064"
+      },
+      "variants": [
+        {
+          "id": "p064-v1",
+          "name": "Standard",
+          "image": "/images/p064.webp",
+          "offers": [
+            {
+              "id": "p064-v1-s2",
+              "sellerId": "s2",
+              "price": 120900,
+              "originalPrice": 173600,
+              "stock": 11,
+              "sku": "NM-p064-STD"
+            }
+          ]
+        },
+        {
+          "id": "p064-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p064.webp",
+          "offers": [
+            {
+              "id": "p064-v2-s2",
+              "sellerId": "s2",
+              "price": 130900,
+              "originalPrice": 185600,
+              "stock": 6,
+              "sku": "NM-p064-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
+    },
+    {
+      "id": "p065",
+      "title": "Sports Sneakers Off White Red",
+      "brand": "Off White",
+      "categoryId": "skor",
+      "description": "Upptäck Sports Sneakers Off White Red. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p065.webp"],
+      "rating": 4.4,
+      "reviewCount": 1354,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P065"
+      },
+      "variants": [
+        {
+          "id": "p065-v1",
+          "name": "Standard",
+          "image": "/images/p065.webp",
+          "offers": [
+            {
+              "id": "p065-v1-s2",
+              "sellerId": "s2",
+              "price": 110900,
+              "originalPrice": 171500,
+              "stock": 12,
+              "sku": "NM-p065-STD"
+            }
+          ]
+        },
+        {
+          "id": "p065-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p065.webp",
+          "offers": [
+            {
+              "id": "p065-v2-s2",
+              "sellerId": "s2",
+              "price": 120900,
+              "originalPrice": 183500,
+              "stock": 7,
+              "sku": "NM-p065-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
+    },
+    {
+      "id": "p066",
+      "title": "Black & Brown Slipper",
+      "brand": "Comfort Trends",
+      "categoryId": "skor",
+      "description": "Upptäck Black & Brown Slipper. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p066.webp"],
+      "rating": 4.5,
+      "reviewCount": 1527,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P066"
+      },
+      "variants": [
+        {
+          "id": "p066-v1",
+          "name": "Standard",
+          "image": "/images/p066.webp",
+          "offers": [
+            {
+              "id": "p066-v1-s2",
+              "sellerId": "s2",
+              "price": 20900,
+              "originalPrice": 25500,
+              "stock": 13,
+              "sku": "NM-p066-STD"
+            }
+          ]
+        },
+        {
+          "id": "p066-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p066.webp",
+          "offers": [
+            {
+              "id": "p066-v2-s2",
+              "sellerId": "s2",
+              "price": 30900,
+              "originalPrice": 37500,
+              "stock": 8,
+              "sku": "NM-p066-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/thumbnail.webp"
+    },
+    {
+      "id": "p067",
+      "title": "Calvin Klein Heel Shoes",
+      "brand": "Calvin Klein",
+      "categoryId": "skor",
+      "description": "Upptäck Calvin Klein Heel Shoes. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p067.webp"],
+      "rating": 4.6,
+      "reviewCount": 1700,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P067"
+      },
+      "variants": [
+        {
+          "id": "p067-v1",
+          "name": "Standard",
+          "image": "/images/p067.webp",
+          "offers": [
+            {
+              "id": "p067-v1-s2",
+              "sellerId": "s2",
+              "price": 80900,
+              "originalPrice": 102000,
+              "stock": 14,
+              "sku": "NM-p067-STD"
+            }
+          ]
+        },
+        {
+          "id": "p067-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p067.webp",
+          "offers": [
+            {
+              "id": "p067-v2-s2",
+              "sellerId": "s2",
+              "price": 90900,
+              "originalPrice": 114000,
+              "stock": 9,
+              "sku": "NM-p067-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp"
+    },
+    {
+      "id": "p068",
+      "title": "Golden Shoes Woman",
+      "brand": "Fashion Diva",
+      "categoryId": "skor",
+      "description": "Upptäck Golden Shoes Woman. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p068.webp"],
+      "rating": 4.7,
+      "reviewCount": 1873,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P068"
+      },
+      "variants": [
+        {
+          "id": "p068-v1",
+          "name": "Standard",
+          "image": "/images/p068.webp",
+          "offers": [
+            {
+              "id": "p068-v1-s2",
+              "sellerId": "s2",
+              "price": 50900,
+              "originalPrice": 68800,
+              "stock": 15,
+              "sku": "NM-p068-STD"
+            }
+          ]
+        },
+        {
+          "id": "p068-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p068.webp",
+          "offers": [
+            {
+              "id": "p068-v2-s2",
+              "sellerId": "s2",
+              "price": 60900,
+              "originalPrice": 80800,
+              "stock": 10,
+              "sku": "NM-p068-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/thumbnail.webp"
+    },
+    {
+      "id": "p069",
+      "title": "Pampi Shoes",
+      "brand": "Pampi",
+      "categoryId": "skor",
+      "description": "Upptäck Pampi Shoes. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p069.webp"],
+      "rating": 4.8,
+      "reviewCount": 2046,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P069"
+      },
+      "variants": [
+        {
+          "id": "p069-v1",
+          "name": "Standard",
+          "image": "/images/p069.webp",
+          "offers": [
+            {
+              "id": "p069-v1-s2",
+              "sellerId": "s2",
+              "price": 30900,
+              "originalPrice": 45000,
+              "stock": 16,
+              "sku": "NM-p069-STD"
+            }
+          ]
+        },
+        {
+          "id": "p069-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p069.webp",
+          "offers": [
+            {
+              "id": "p069-v2-s2",
+              "sellerId": "s2",
+              "price": 40900,
+              "originalPrice": 57000,
+              "stock": 11,
+              "sku": "NM-p069-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/thumbnail.webp"
+    },
+    {
+      "id": "p070",
+      "title": "Red Shoes",
+      "brand": "Fashion Express",
+      "categoryId": "skor",
+      "description": "Upptäck Red Shoes. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p070.webp"],
+      "rating": 4.9,
+      "reviewCount": 2219,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P070"
+      },
+      "variants": [
+        {
+          "id": "p070-v1",
+          "name": "Standard",
+          "image": "/images/p070.webp",
+          "offers": [
+            {
+              "id": "p070-v1-s2",
+              "sellerId": "s2",
+              "price": 35900,
+              "originalPrice": 56100,
+              "stock": 0,
+              "sku": "NM-p070-STD"
+            }
+          ]
+        },
+        {
+          "id": "p070-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p070.webp",
+          "offers": [
+            {
+              "id": "p070-v2-s2",
+              "sellerId": "s2",
+              "price": 45900,
+              "originalPrice": 68100,
+              "stock": 12,
+              "sku": "NM-p070-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/thumbnail.webp"
+    },
+    {
+      "id": "p071",
+      "title": "American Football",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck American Football. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p071.webp"],
+      "rating": 4,
+      "reviewCount": 751,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P071"
+      },
+      "variants": [
+        {
+          "id": "p071-v1",
+          "name": "Standard",
+          "image": "/images/p071.webp",
+          "offers": [
+            {
+              "id": "p071-v1-s3",
+              "sellerId": "s3",
+              "price": 20900,
+              "originalPrice": 25500,
+              "stock": 8,
+              "sku": "NM-p071-STD"
+            }
+          ]
+        },
+        {
+          "id": "p071-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p071.webp",
+          "offers": [
+            {
+              "id": "p071-v2-s3",
+              "sellerId": "s3",
+              "price": 30900,
+              "originalPrice": 37500,
+              "stock": 3,
+              "sku": "NM-p071-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
+    },
+    {
+      "id": "p072",
+      "title": "Baseball Ball",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Baseball Ball. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p072.webp"],
+      "rating": 4.1,
+      "reviewCount": 924,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P072"
+      },
+      "variants": [
+        {
+          "id": "p072-v1",
+          "name": "Standard",
+          "image": "/images/p072.webp",
+          "offers": [
+            {
+              "id": "p072-v1-s3",
+              "sellerId": "s3",
+              "price": 9900,
+              "originalPrice": 13300,
+              "stock": 9,
+              "sku": "NM-p072-STD"
+            }
+          ]
+        },
+        {
+          "id": "p072-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p072.webp",
+          "offers": [
+            {
+              "id": "p072-v2-s3",
+              "sellerId": "s3",
+              "price": 19900,
+              "originalPrice": 25300,
+              "stock": 4,
+              "sku": "NM-p072-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
+    },
+    {
+      "id": "p073",
+      "title": "Baseball Glove",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Baseball Glove. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p073.webp"],
+      "rating": 4.2,
+      "reviewCount": 1097,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P073"
+      },
+      "variants": [
+        {
+          "id": "p073-v1",
+          "name": "Standard",
+          "image": "/images/p073.webp",
+          "offers": [
+            {
+              "id": "p073-v1-s3",
+              "sellerId": "s3",
+              "price": 25900,
+              "originalPrice": 35400,
+              "stock": 10,
+              "sku": "NM-p073-STD"
+            }
+          ]
+        },
+        {
+          "id": "p073-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p073.webp",
+          "offers": [
+            {
+              "id": "p073-v2-s3",
+              "sellerId": "s3",
+              "price": 35900,
+              "originalPrice": 47400,
+              "stock": 5,
+              "sku": "NM-p073-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
+    },
+    {
+      "id": "p074",
+      "title": "Basketball",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Basketball. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p074.webp"],
+      "rating": 4.3,
+      "reviewCount": 1270,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P074"
+      },
+      "variants": [
+        {
+          "id": "p074-v1",
+          "name": "Standard",
+          "image": "/images/p074.webp",
+          "offers": [
+            {
+              "id": "p074-v1-s3",
+              "sellerId": "s3",
+              "price": 15900,
+              "originalPrice": 23600,
+              "stock": 11,
+              "sku": "NM-p074-STD"
+            }
+          ]
+        },
+        {
+          "id": "p074-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p074.webp",
+          "offers": [
+            {
+              "id": "p074-v2-s3",
+              "sellerId": "s3",
+              "price": 25900,
+              "originalPrice": 35600,
+              "stock": 6,
+              "sku": "NM-p074-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
+    },
+    {
+      "id": "p075",
+      "title": "Basketball Rim",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Basketball Rim. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p075.webp"],
+      "rating": 4.4,
+      "reviewCount": 1443,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P075"
+      },
+      "variants": [
+        {
+          "id": "p075-v1",
+          "name": "Standard",
+          "image": "/images/p075.webp",
+          "offers": [
+            {
+              "id": "p075-v1-s3",
+              "sellerId": "s3",
+              "price": 40900,
+              "originalPrice": 63800,
+              "stock": 12,
+              "sku": "NM-p075-STD"
+            }
+          ]
+        },
+        {
+          "id": "p075-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p075.webp",
+          "offers": [
+            {
+              "id": "p075-v2-s3",
+              "sellerId": "s3",
+              "price": 50900,
+              "originalPrice": 75800,
+              "stock": 7,
+              "sku": "NM-p075-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
+    },
+    {
+      "id": "p076",
+      "title": "Cricket Ball",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Cricket Ball. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p076.webp"],
+      "rating": 4.5,
+      "reviewCount": 1616,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P076"
+      },
+      "variants": [
+        {
+          "id": "p076-v1",
+          "name": "Standard",
+          "image": "/images/p076.webp",
+          "offers": [
+            {
+              "id": "p076-v1-s3",
+              "sellerId": "s3",
+              "price": 13900,
+              "originalPrice": 17300,
+              "stock": 13,
+              "sku": "NM-p076-STD"
+            }
+          ]
+        },
+        {
+          "id": "p076-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p076.webp",
+          "offers": [
+            {
+              "id": "p076-v2-s3",
+              "sellerId": "s3",
+              "price": 23900,
+              "originalPrice": 29300,
+              "stock": 8,
+              "sku": "NM-p076-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
+    },
+    {
+      "id": "p077",
+      "title": "Cricket Bat",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Cricket Bat. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p077.webp"],
+      "rating": 4.6,
+      "reviewCount": 1789,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P077"
+      },
+      "variants": [
+        {
+          "id": "p077-v1",
+          "name": "Standard",
+          "image": "/images/p077.webp",
+          "offers": [
+            {
+              "id": "p077-v1-s3",
+              "sellerId": "s3",
+              "price": 30900,
+              "originalPrice": 39500,
+              "stock": 14,
+              "sku": "NM-p077-STD"
+            }
+          ]
+        },
+        {
+          "id": "p077-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p077.webp",
+          "offers": [
+            {
+              "id": "p077-v2-s3",
+              "sellerId": "s3",
+              "price": 40900,
+              "originalPrice": 51500,
+              "stock": 9,
+              "sku": "NM-p077-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
+    },
+    {
+      "id": "p078",
+      "title": "Cricket Helmet",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Cricket Helmet. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p078.webp"],
+      "rating": 4.7,
+      "reviewCount": 1962,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P078"
+      },
+      "variants": [
+        {
+          "id": "p078-v1",
+          "name": "Standard",
+          "image": "/images/p078.webp",
+          "offers": [
+            {
+              "id": "p078-v1-s3",
+              "sellerId": "s3",
+              "price": 45900,
+              "originalPrice": 62100,
+              "stock": 15,
+              "sku": "NM-p078-STD"
+            }
+          ]
+        },
+        {
+          "id": "p078-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p078.webp",
+          "offers": [
+            {
+              "id": "p078-v2-s3",
+              "sellerId": "s3",
+              "price": 55900,
+              "originalPrice": 74100,
+              "stock": 10,
+              "sku": "NM-p078-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+    },
+    {
+      "id": "p079",
+      "title": "Cricket Wicket",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Cricket Wicket. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p079.webp"],
+      "rating": 4.8,
+      "reviewCount": 2135,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P079"
+      },
+      "variants": [
+        {
+          "id": "p079-v1",
+          "name": "Standard",
+          "image": "/images/p079.webp",
+          "offers": [
+            {
+              "id": "p079-v1-s3",
+              "sellerId": "s3",
+              "price": 30900,
+              "originalPrice": 45000,
+              "stock": 16,
+              "sku": "NM-p079-STD"
+            }
+          ]
+        },
+        {
+          "id": "p079-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p079.webp",
+          "offers": [
+            {
+              "id": "p079-v2-s3",
+              "sellerId": "s3",
+              "price": 40900,
+              "originalPrice": 57000,
+              "stock": 11,
+              "sku": "NM-p079-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp"
+    },
+    {
+      "id": "p080",
+      "title": "Feather Shuttlecock",
+      "brand": "Everyday",
+      "categoryId": "sport",
+      "description": "Upptäck Feather Shuttlecock. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p080.webp"],
+      "rating": 4.9,
+      "reviewCount": 2308,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P080"
+      },
+      "variants": [
+        {
+          "id": "p080-v1",
+          "name": "Standard",
+          "image": "/images/p080.webp",
+          "offers": [
+            {
+              "id": "p080-v1-s3",
+              "sellerId": "s3",
+              "price": 6900,
+              "originalPrice": 11500,
+              "stock": 0,
+              "sku": "NM-p080-STD"
+            }
+          ]
+        },
+        {
+          "id": "p080-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p080.webp",
+          "offers": [
+            {
+              "id": "p080-v2-s3",
+              "sellerId": "s3",
+              "price": 16900,
+              "originalPrice": 23500,
+              "stock": 12,
+              "sku": "NM-p080-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp"
+    },
+    {
+      "id": "p081",
+      "title": "Essence Mascara Lash Princess",
+      "brand": "Essence",
+      "categoryId": "skonhet",
+      "description": "Upptäck Essence Mascara Lash Princess. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p081.webp"],
+      "rating": 4,
+      "reviewCount": 840,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P081"
+      },
+      "variants": [
+        {
+          "id": "p081-v1",
+          "name": "Standard",
+          "image": "/images/p081.webp",
+          "offers": [
+            {
+              "id": "p081-v1-s4",
+              "sellerId": "s4",
+              "price": 10900,
+              "originalPrice": 13700,
+              "stock": 8,
+              "sku": "NM-p081-STD"
+            }
+          ]
+        },
+        {
+          "id": "p081-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p081.webp",
+          "offers": [
+            {
+              "id": "p081-v2-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 25700,
+              "stock": 3,
+              "sku": "NM-p081-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    },
+    {
+      "id": "p082",
+      "title": "Eyeshadow Palette with Mirror",
+      "brand": "Glamour Beauty",
+      "categoryId": "skonhet",
+      "description": "Upptäck Eyeshadow Palette with Mirror. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p082.webp"],
+      "rating": 4.1,
+      "reviewCount": 1013,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P082"
+      },
+      "variants": [
+        {
+          "id": "p082-v1",
+          "name": "Standard",
+          "image": "/images/p082.webp",
+          "offers": [
+            {
+              "id": "p082-v1-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 27000,
+              "stock": 9,
+              "sku": "NM-p082-STD"
+            }
+          ]
+        },
+        {
+          "id": "p082-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p082.webp",
+          "offers": [
+            {
+              "id": "p082-v2-s4",
+              "sellerId": "s4",
+              "price": 30900,
+              "originalPrice": 39000,
+              "stock": 4,
+              "sku": "NM-p082-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": "p083",
+      "title": "Powder Canister",
+      "brand": "Velvet Touch",
+      "categoryId": "skonhet",
+      "description": "Upptäck Powder Canister. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p083.webp"],
+      "rating": 4.2,
+      "reviewCount": 1186,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P083"
+      },
+      "variants": [
+        {
+          "id": "p083-v1",
+          "name": "Standard",
+          "image": "/images/p083.webp",
+          "offers": [
+            {
+              "id": "p083-v1-s4",
+              "sellerId": "s4",
+              "price": 15900,
+              "originalPrice": 22100,
+              "stock": 10,
+              "sku": "NM-p083-STD"
+            }
+          ]
+        },
+        {
+          "id": "p083-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p083.webp",
+          "offers": [
+            {
+              "id": "p083-v2-s4",
+              "sellerId": "s4",
+              "price": 25900,
+              "originalPrice": 34100,
+              "stock": 5,
+              "sku": "NM-p083-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+    },
+    {
+      "id": "p084",
+      "title": "Red Lipstick",
+      "brand": "Chic Cosmetics",
+      "categoryId": "skonhet",
+      "description": "Upptäck Red Lipstick. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p084.webp"],
+      "rating": 4.3,
+      "reviewCount": 1359,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P084"
+      },
+      "variants": [
+        {
+          "id": "p084-v1",
+          "name": "Standard",
+          "image": "/images/p084.webp",
+          "offers": [
+            {
+              "id": "p084-v1-s4",
+              "sellerId": "s4",
+              "price": 13900,
+              "originalPrice": 20800,
+              "stock": 11,
+              "sku": "NM-p084-STD"
+            }
+          ]
+        },
+        {
+          "id": "p084-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p084.webp",
+          "offers": [
+            {
+              "id": "p084-v2-s4",
+              "sellerId": "s4",
+              "price": 23900,
+              "originalPrice": 32800,
+              "stock": 6,
+              "sku": "NM-p084-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+    },
+    {
+      "id": "p085",
+      "title": "Red Nail Polish",
+      "brand": "Nail Couture",
+      "categoryId": "skonhet",
+      "description": "Upptäck Red Nail Polish. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p085.webp"],
+      "rating": 4.4,
+      "reviewCount": 1532,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P085"
+      },
+      "variants": [
+        {
+          "id": "p085-v1",
+          "name": "Standard",
+          "image": "/images/p085.webp",
+          "offers": [
+            {
+              "id": "p085-v1-s4",
+              "sellerId": "s4",
+              "price": 9900,
+              "originalPrice": 16100,
+              "stock": 12,
+              "sku": "NM-p085-STD"
+            }
+          ]
+        },
+        {
+          "id": "p085-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p085.webp",
+          "offers": [
+            {
+              "id": "p085-v2-s4",
+              "sellerId": "s4",
+              "price": 19900,
+              "originalPrice": 28100,
+              "stock": 7,
+              "sku": "NM-p085-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+    },
+    {
+      "id": "p086",
+      "title": "Attitude Super Leaves Hand Soap",
+      "brand": "Attitude",
+      "categoryId": "skonhet",
+      "description": "Upptäck Attitude Super Leaves Hand Soap. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p086.webp"],
+      "rating": 4.5,
+      "reviewCount": 1705,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P086"
+      },
+      "variants": [
+        {
+          "id": "p086-v1",
+          "name": "Standard",
+          "image": "/images/p086.webp",
+          "offers": [
+            {
+              "id": "p086-v1-s4",
+              "sellerId": "s4",
+              "price": 9900,
+              "originalPrice": 12500,
+              "stock": 13,
+              "sku": "NM-p086-STD"
+            }
+          ]
+        },
+        {
+          "id": "p086-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p086.webp",
+          "offers": [
+            {
+              "id": "p086-v2-s4",
+              "sellerId": "s4",
+              "price": 19900,
+              "originalPrice": 24500,
+              "stock": 8,
+              "sku": "NM-p086-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp"
+    },
+    {
+      "id": "p087",
+      "title": "Olay Ultra Moisture Shea Butter Body Wash",
+      "brand": "Olay",
+      "categoryId": "skonhet",
+      "description": "Upptäck Olay Ultra Moisture Shea Butter Body Wash. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p087.webp"],
+      "rating": 4.6,
+      "reviewCount": 1878,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P087"
+      },
+      "variants": [
+        {
+          "id": "p087-v1",
+          "name": "Standard",
+          "image": "/images/p087.webp",
+          "offers": [
+            {
+              "id": "p087-v1-s4",
+              "sellerId": "s4",
+              "price": 13900,
+              "originalPrice": 18300,
+              "stock": 14,
+              "sku": "NM-p087-STD"
+            }
+          ]
+        },
+        {
+          "id": "p087-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p087.webp",
+          "offers": [
+            {
+              "id": "p087-v2-s4",
+              "sellerId": "s4",
+              "price": 23900,
+              "originalPrice": 30300,
+              "stock": 9,
+              "sku": "NM-p087-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp"
+    },
+    {
+      "id": "p088",
+      "title": "Vaseline Men Body and Face Lotion",
+      "brand": "Vaseline",
+      "categoryId": "skonhet",
+      "description": "Upptäck Vaseline Men Body and Face Lotion. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p088.webp"],
+      "rating": 4.7,
+      "reviewCount": 2051,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P088"
+      },
+      "variants": [
+        {
+          "id": "p088-v1",
+          "name": "Standard",
+          "image": "/images/p088.webp",
+          "offers": [
+            {
+              "id": "p088-v1-s4",
+              "sellerId": "s4",
+              "price": 10900,
+              "originalPrice": 15400,
+              "stock": 15,
+              "sku": "NM-p088-STD"
+            }
+          ]
+        },
+        {
+          "id": "p088-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p088.webp",
+          "offers": [
+            {
+              "id": "p088-v2-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 27400,
+              "stock": 10,
+              "sku": "NM-p088-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp"
+    },
+    {
+      "id": "p089",
+      "title": "Essence Mascara Lash Princess – presentförpackning",
+      "brand": "Essence",
+      "categoryId": "skonhet",
+      "description": "Upptäck Essence Mascara Lash Princess. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p089.webp"],
+      "rating": 4.8,
+      "reviewCount": 2224,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P089"
+      },
+      "variants": [
+        {
+          "id": "p089-v1",
+          "name": "Standard",
+          "image": "/images/p089.webp",
+          "offers": [
+            {
+              "id": "p089-v1-s4",
+              "sellerId": "s4",
+              "price": 10900,
+              "originalPrice": 16500,
+              "stock": 16,
+              "sku": "NM-p089-STD"
+            }
+          ]
+        },
+        {
+          "id": "p089-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p089.webp",
+          "offers": [
+            {
+              "id": "p089-v2-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 28500,
+              "stock": 11,
+              "sku": "NM-p089-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    },
+    {
+      "id": "p090",
+      "title": "Eyeshadow Palette with Mirror – presentförpackning",
+      "brand": "Glamour Beauty",
+      "categoryId": "skonhet",
+      "description": "Upptäck Eyeshadow Palette with Mirror. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p090.webp"],
+      "rating": 4.9,
+      "reviewCount": 2397,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P090"
+      },
+      "variants": [
+        {
+          "id": "p090-v1",
+          "name": "Standard",
+          "image": "/images/p090.webp",
+          "offers": [
+            {
+              "id": "p090-v1-s4",
+              "sellerId": "s4",
+              "price": 20900,
+              "originalPrice": 33100,
+              "stock": 0,
+              "sku": "NM-p090-STD"
+            }
+          ]
+        },
+        {
+          "id": "p090-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p090.webp",
+          "offers": [
+            {
+              "id": "p090-v2-s4",
+              "sellerId": "s4",
+              "price": 30900,
+              "originalPrice": 45100,
+              "stock": 12,
+              "sku": "NM-p090-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": "p091",
+      "title": "Calvin Klein CK One",
+      "brand": "Calvin Klein",
+      "categoryId": "parfym",
+      "description": "Upptäck Calvin Klein CK One. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p091.webp"],
+      "rating": 4,
+      "reviewCount": 929,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P091"
+      },
+      "variants": [
+        {
+          "id": "p091-v1",
+          "name": "Standard",
+          "image": "/images/p091.webp",
+          "offers": [
+            {
+              "id": "p091-v1-s5",
+              "sellerId": "s5",
+              "price": 50900,
+              "originalPrice": 60800,
+              "stock": 8,
+              "sku": "NM-p091-STD"
+            }
+          ]
+        },
+        {
+          "id": "p091-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p091.webp",
+          "offers": [
+            {
+              "id": "p091-v2-s5",
+              "sellerId": "s5",
+              "price": 60900,
+              "originalPrice": 72800,
+              "stock": 3,
+              "sku": "NM-p091-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+    },
+    {
+      "id": "p092",
+      "title": "Chanel Coco Noir Eau De",
+      "brand": "Chanel",
+      "categoryId": "parfym",
+      "description": "Upptäck Chanel Coco Noir Eau De. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p092.webp"],
+      "rating": 4.1,
+      "reviewCount": 1102,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P092"
+      },
+      "variants": [
+        {
+          "id": "p092-v1",
+          "name": "Standard",
+          "image": "/images/p092.webp",
+          "offers": [
+            {
+              "id": "p092-v1-s5",
+              "sellerId": "s5",
+              "price": 130900,
+              "originalPrice": 164500,
+              "stock": 9,
+              "sku": "NM-p092-STD"
+            }
+          ]
+        },
+        {
+          "id": "p092-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p092.webp",
+          "offers": [
+            {
+              "id": "p092-v2-s5",
+              "sellerId": "s5",
+              "price": 140900,
+              "originalPrice": 176500,
+              "stock": 4,
+              "sku": "NM-p092-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+    },
+    {
+      "id": "p093",
+      "title": "Dior J'adore",
+      "brand": "Dior",
+      "categoryId": "parfym",
+      "description": "Upptäck Dior J'adore. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p093.webp"],
+      "rating": 4.2,
+      "reviewCount": 1275,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P093"
+      },
+      "variants": [
+        {
+          "id": "p093-v1",
+          "name": "Standard",
+          "image": "/images/p093.webp",
+          "offers": [
+            {
+              "id": "p093-v1-s5",
+              "sellerId": "s5",
+              "price": 90900,
+              "originalPrice": 122100,
+              "stock": 10,
+              "sku": "NM-p093-STD"
+            }
+          ]
+        },
+        {
+          "id": "p093-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p093.webp",
+          "offers": [
+            {
+              "id": "p093-v2-s5",
+              "sellerId": "s5",
+              "price": 100900,
+              "originalPrice": 134100,
+              "stock": 5,
+              "sku": "NM-p093-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+    },
+    {
+      "id": "p094",
+      "title": "Dolce Shine Eau de",
+      "brand": "Dolce & Gabbana",
+      "categoryId": "parfym",
+      "description": "Upptäck Dolce Shine Eau de. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p094.webp"],
+      "rating": 4.3,
+      "reviewCount": 1448,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P094"
+      },
+      "variants": [
+        {
+          "id": "p094-v1",
+          "name": "Standard",
+          "image": "/images/p094.webp",
+          "offers": [
+            {
+              "id": "p094-v1-s5",
+              "sellerId": "s5",
+              "price": 70900,
+              "originalPrice": 102200,
+              "stock": 11,
+              "sku": "NM-p094-STD"
+            }
+          ]
+        },
+        {
+          "id": "p094-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p094.webp",
+          "offers": [
+            {
+              "id": "p094-v2-s5",
+              "sellerId": "s5",
+              "price": 80900,
+              "originalPrice": 114200,
+              "stock": 6,
+              "sku": "NM-p094-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+    },
+    {
+      "id": "p095",
+      "title": "Gucci Bloom Eau de",
+      "brand": "Gucci",
+      "categoryId": "parfym",
+      "description": "Upptäck Gucci Bloom Eau de. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p095.webp"],
+      "rating": 4.4,
+      "reviewCount": 1621,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P095"
+      },
+      "variants": [
+        {
+          "id": "p095-v1",
+          "name": "Standard",
+          "image": "/images/p095.webp",
+          "offers": [
+            {
+              "id": "p095-v1-s5",
+              "sellerId": "s5",
+              "price": 80900,
+              "originalPrice": 125400,
+              "stock": 12,
+              "sku": "NM-p095-STD"
+            }
+          ]
+        },
+        {
+          "id": "p095-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p095.webp",
+          "offers": [
+            {
+              "id": "p095-v2-s5",
+              "sellerId": "s5",
+              "price": 90900,
+              "originalPrice": 137400,
+              "stock": 7,
+              "sku": "NM-p095-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+    },
+    {
+      "id": "p096",
+      "title": "Calvin Klein CK One – presentförpackning",
+      "brand": "Calvin Klein",
+      "categoryId": "parfym",
+      "description": "Upptäck Calvin Klein CK One. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p096.webp"],
+      "rating": 4.5,
+      "reviewCount": 1794,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P096"
+      },
+      "variants": [
+        {
+          "id": "p096-v1",
+          "name": "Standard",
+          "image": "/images/p096.webp",
+          "offers": [
+            {
+              "id": "p096-v1-s5",
+              "sellerId": "s5",
+              "price": 50900,
+              "originalPrice": 60800,
+              "stock": 13,
+              "sku": "NM-p096-STD"
+            }
+          ]
+        },
+        {
+          "id": "p096-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p096.webp",
+          "offers": [
+            {
+              "id": "p096-v2-s5",
+              "sellerId": "s5",
+              "price": 60900,
+              "originalPrice": 72800,
+              "stock": 8,
+              "sku": "NM-p096-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+    },
+    {
+      "id": "p097",
+      "title": "Chanel Coco Noir Eau De – presentförpackning",
+      "brand": "Chanel",
+      "categoryId": "parfym",
+      "description": "Upptäck Chanel Coco Noir Eau De. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p097.webp"],
+      "rating": 4.6,
+      "reviewCount": 1967,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P097"
+      },
+      "variants": [
+        {
+          "id": "p097-v1",
+          "name": "Standard",
+          "image": "/images/p097.webp",
+          "offers": [
+            {
+              "id": "p097-v1-s5",
+              "sellerId": "s5",
+              "price": 130900,
+              "originalPrice": 164500,
+              "stock": 14,
+              "sku": "NM-p097-STD"
+            }
+          ]
+        },
+        {
+          "id": "p097-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p097.webp",
+          "offers": [
+            {
+              "id": "p097-v2-s5",
+              "sellerId": "s5",
+              "price": 140900,
+              "originalPrice": 176500,
+              "stock": 9,
+              "sku": "NM-p097-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+    },
+    {
+      "id": "p098",
+      "title": "Dior J'adore – presentförpackning",
+      "brand": "Dior",
+      "categoryId": "parfym",
+      "description": "Upptäck Dior J'adore. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p098.webp"],
+      "rating": 4.7,
+      "reviewCount": 2140,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P098"
+      },
+      "variants": [
+        {
+          "id": "p098-v1",
+          "name": "Standard",
+          "image": "/images/p098.webp",
+          "offers": [
+            {
+              "id": "p098-v1-s5",
+              "sellerId": "s5",
+              "price": 90900,
+              "originalPrice": 122100,
+              "stock": 15,
+              "sku": "NM-p098-STD"
+            }
+          ]
+        },
+        {
+          "id": "p098-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p098.webp",
+          "offers": [
+            {
+              "id": "p098-v2-s5",
+              "sellerId": "s5",
+              "price": 100900,
+              "originalPrice": 134100,
+              "stock": 10,
+              "sku": "NM-p098-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+    },
+    {
+      "id": "p099",
+      "title": "Dolce Shine Eau de – presentförpackning",
+      "brand": "Dolce & Gabbana",
+      "categoryId": "parfym",
+      "description": "Upptäck Dolce Shine Eau de. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p099.webp"],
+      "rating": 4.8,
+      "reviewCount": 2313,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P099"
+      },
+      "variants": [
+        {
+          "id": "p099-v1",
+          "name": "Standard",
+          "image": "/images/p099.webp",
+          "offers": [
+            {
+              "id": "p099-v1-s5",
+              "sellerId": "s5",
+              "price": 70900,
+              "originalPrice": 102200,
+              "stock": 16,
+              "sku": "NM-p099-STD"
+            }
+          ]
+        },
+        {
+          "id": "p099-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p099.webp",
+          "offers": [
+            {
+              "id": "p099-v2-s5",
+              "sellerId": "s5",
+              "price": 80900,
+              "originalPrice": 114200,
+              "stock": 11,
+              "sku": "NM-p099-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+    },
+    {
+      "id": "p100",
+      "title": "Gucci Bloom Eau de – presentförpackning",
+      "brand": "Gucci",
+      "categoryId": "parfym",
+      "description": "Upptäck Gucci Bloom Eau de. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p100.webp"],
+      "rating": 4.9,
+      "reviewCount": 2486,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P100"
+      },
+      "variants": [
+        {
+          "id": "p100-v1",
+          "name": "Standard",
+          "image": "/images/p100.webp",
+          "offers": [
+            {
+              "id": "p100-v1-s5",
+              "sellerId": "s5",
+              "price": 80900,
+              "originalPrice": 125400,
+              "stock": 0,
+              "sku": "NM-p100-STD"
+            }
+          ]
+        },
+        {
+          "id": "p100-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p100.webp",
+          "offers": [
+            {
+              "id": "p100-v2-s5",
+              "sellerId": "s5",
+              "price": 90900,
+              "originalPrice": 137400,
+              "stock": 12,
+              "sku": "NM-p100-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+    },
+    {
+      "id": "p101",
+      "title": "Apple",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Apple. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p101.webp"],
+      "rating": 4,
+      "reviewCount": 1018,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P101"
+      },
+      "variants": [
+        {
+          "id": "p101-v1",
+          "name": "Standard",
+          "image": "/images/p101.webp",
+          "offers": [
+            {
+              "id": "p101-v1-s1",
+              "sellerId": "s1",
+              "price": 2900,
+              "originalPrice": 4300,
+              "stock": 8,
+              "sku": "NM-p101-STD"
+            }
+          ]
+        },
+        {
+          "id": "p101-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p101.webp",
+          "offers": [
+            {
+              "id": "p101-v2-s1",
+              "sellerId": "s1",
+              "price": 12900,
+              "originalPrice": 16300,
+              "stock": 3,
+              "sku": "NM-p101-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+    },
+    {
+      "id": "p102",
+      "title": "Beef Steak",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Beef Steak. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p102.webp"],
+      "rating": 4.1,
+      "reviewCount": 1191,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P102"
+      },
+      "variants": [
+        {
+          "id": "p102-v1",
+          "name": "Standard",
+          "image": "/images/p102.webp",
+          "offers": [
+            {
+              "id": "p102-v1-s1",
+              "sellerId": "s1",
+              "price": 13900,
+              "originalPrice": 18300,
+              "stock": 9,
+              "sku": "NM-p102-STD"
+            }
+          ]
+        },
+        {
+          "id": "p102-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p102.webp",
+          "offers": [
+            {
+              "id": "p102-v2-s1",
+              "sellerId": "s1",
+              "price": 23900,
+              "originalPrice": 30300,
+              "stock": 4,
+              "sku": "NM-p102-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
+    },
+    {
+      "id": "p103",
+      "title": "Cat Food",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Cat Food. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p103.webp"],
+      "rating": 4.2,
+      "reviewCount": 1364,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P103"
+      },
+      "variants": [
+        {
+          "id": "p103-v1",
+          "name": "Standard",
+          "image": "/images/p103.webp",
+          "offers": [
+            {
+              "id": "p103-v1-s1",
+              "sellerId": "s1",
+              "price": 9900,
+              "originalPrice": 14100,
+              "stock": 10,
+              "sku": "NM-p103-STD"
+            }
+          ]
+        },
+        {
+          "id": "p103-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p103.webp",
+          "offers": [
+            {
+              "id": "p103-v2-s1",
+              "sellerId": "s1",
+              "price": 19900,
+              "originalPrice": 26100,
+              "stock": 5,
+              "sku": "NM-p103-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
+    },
+    {
+      "id": "p104",
+      "title": "Chicken Meat",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Chicken Meat. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p104.webp"],
+      "rating": 4.3,
+      "reviewCount": 1537,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P104"
+      },
+      "variants": [
+        {
+          "id": "p104-v1",
+          "name": "Standard",
+          "image": "/images/p104.webp",
+          "offers": [
+            {
+              "id": "p104-v1-s1",
+              "sellerId": "s1",
+              "price": 10900,
+              "originalPrice": 16500,
+              "stock": 11,
+              "sku": "NM-p104-STD"
+            }
+          ]
+        },
+        {
+          "id": "p104-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p104.webp",
+          "offers": [
+            {
+              "id": "p104-v2-s1",
+              "sellerId": "s1",
+              "price": 20900,
+              "originalPrice": 28500,
+              "stock": 6,
+              "sku": "NM-p104-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": "p105",
+      "title": "Cooking Oil",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Cooking Oil. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p105.webp"],
+      "rating": 4.4,
+      "reviewCount": 1710,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "5 kg",
+        "SKU": "NM-P105"
+      },
+      "variants": [
+        {
+          "id": "p105-v1",
+          "name": "Standard",
+          "image": "/images/p105.webp",
+          "offers": [
+            {
+              "id": "p105-v1-s1",
+              "sellerId": "s1",
+              "price": 5900,
+              "originalPrice": 10000,
+              "stock": 12,
+              "sku": "NM-p105-STD"
+            }
+          ]
+        },
+        {
+          "id": "p105-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p105.webp",
+          "offers": [
+            {
+              "id": "p105-v2-s1",
+              "sellerId": "s1",
+              "price": 15900,
+              "originalPrice": 22000,
+              "stock": 7,
+              "sku": "NM-p105-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
+    },
+    {
+      "id": "p106",
+      "title": "Cucumber",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Cucumber. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p106.webp"],
+      "rating": 4.5,
+      "reviewCount": 1883,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P106"
+      },
+      "variants": [
+        {
+          "id": "p106-v1",
+          "name": "Standard",
+          "image": "/images/p106.webp",
+          "offers": [
+            {
+              "id": "p106-v1-s1",
+              "sellerId": "s1",
+              "price": 2400,
+              "originalPrice": 3700,
+              "stock": 13,
+              "sku": "NM-p106-STD"
+            }
+          ]
+        },
+        {
+          "id": "p106-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p106.webp",
+          "offers": [
+            {
+              "id": "p106-v2-s1",
+              "sellerId": "s1",
+              "price": 12400,
+              "originalPrice": 15700,
+              "stock": 8,
+              "sku": "NM-p106-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
+    },
+    {
+      "id": "p107",
+      "title": "Dog Food",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Dog Food. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p107.webp"],
+      "rating": 4.6,
+      "reviewCount": 2056,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "10 kg",
+        "SKU": "NM-P107"
+      },
+      "variants": [
+        {
+          "id": "p107-v1",
+          "name": "Standard",
+          "image": "/images/p107.webp",
+          "offers": [
+            {
+              "id": "p107-v1-s1",
+              "sellerId": "s1",
+              "price": 11900,
+              "originalPrice": 15800,
+              "stock": 14,
+              "sku": "NM-p107-STD"
+            }
+          ]
+        },
+        {
+          "id": "p107-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p107.webp",
+          "offers": [
+            {
+              "id": "p107-v2-s1",
+              "sellerId": "s1",
+              "price": 21900,
+              "originalPrice": 27800,
+              "stock": 9,
+              "sku": "NM-p107-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
+    },
+    {
+      "id": "p108",
+      "title": "Eggs",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Eggs. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p108.webp"],
+      "rating": 4.7,
+      "reviewCount": 2229,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P108"
+      },
+      "variants": [
+        {
+          "id": "p108-v1",
+          "name": "Standard",
+          "image": "/images/p108.webp",
+          "offers": [
+            {
+              "id": "p108-v1-s1",
+              "sellerId": "s1",
+              "price": 3900,
+              "originalPrice": 6100,
+              "stock": 15,
+              "sku": "NM-p108-STD"
+            }
+          ]
+        },
+        {
+          "id": "p108-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p108.webp",
+          "offers": [
+            {
+              "id": "p108-v2-s1",
+              "sellerId": "s1",
+              "price": 13900,
+              "originalPrice": 18100,
+              "stock": 10,
+              "sku": "NM-p108-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
+    },
+    {
+      "id": "p109",
+      "title": "Fish Steak",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Fish Steak. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p109.webp"],
+      "rating": 4.8,
+      "reviewCount": 2402,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P109"
+      },
+      "variants": [
+        {
+          "id": "p109-v1",
+          "name": "Standard",
+          "image": "/images/p109.webp",
+          "offers": [
+            {
+              "id": "p109-v1-s1",
+              "sellerId": "s1",
+              "price": 15900,
+              "originalPrice": 23600,
+              "stock": 16,
+              "sku": "NM-p109-STD"
+            }
+          ]
+        },
+        {
+          "id": "p109-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p109.webp",
+          "offers": [
+            {
+              "id": "p109-v2-s1",
+              "sellerId": "s1",
+              "price": 25900,
+              "originalPrice": 35600,
+              "stock": 11,
+              "sku": "NM-p109-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
+    },
+    {
+      "id": "p110",
+      "title": "Green Bell Pepper",
+      "brand": "Everyday",
+      "categoryId": "mat",
+      "description": "Upptäck Green Bell Pepper. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p110.webp"],
+      "rating": 4.9,
+      "reviewCount": 2575,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "2 kg",
+        "SKU": "NM-P110"
+      },
+      "variants": [
+        {
+          "id": "p110-v1",
+          "name": "Standard",
+          "image": "/images/p110.webp",
+          "offers": [
+            {
+              "id": "p110-v1-s1",
+              "sellerId": "s1",
+              "price": 2200,
+              "originalPrice": 4300,
+              "stock": 0,
+              "sku": "NM-p110-STD"
+            }
+          ]
+        },
+        {
+          "id": "p110-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p110.webp",
+          "offers": [
+            {
+              "id": "p110-v2-s1",
+              "sellerId": "s1",
+              "price": 12200,
+              "originalPrice": 16300,
+              "stock": 12,
+              "sku": "NM-p110-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
+    },
+    {
+      "id": "p111",
+      "title": "Black Sun Glasses",
+      "brand": "Fashion Shades",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Black Sun Glasses. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p111.webp"],
+      "rating": 4,
+      "reviewCount": 1107,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P111"
+      },
+      "variants": [
+        {
+          "id": "p111-v1",
+          "name": "Standard",
+          "image": "/images/p111.webp",
+          "offers": [
+            {
+              "id": "p111-v1-s2",
+              "sellerId": "s2",
+              "price": 30900,
+              "originalPrice": 37300,
+              "stock": 8,
+              "sku": "NM-p111-STD"
+            }
+          ]
+        },
+        {
+          "id": "p111-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p111.webp",
+          "offers": [
+            {
+              "id": "p111-v2-s2",
+              "sellerId": "s2",
+              "price": 40900,
+              "originalPrice": 49300,
+              "stock": 3,
+              "sku": "NM-p111-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp"
+    },
+    {
+      "id": "p112",
+      "title": "Classic Sun Glasses",
+      "brand": "Fashion Shades",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Classic Sun Glasses. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p112.webp"],
+      "rating": 4.1,
+      "reviewCount": 1280,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "8 kg",
+        "SKU": "NM-P112"
+      },
+      "variants": [
+        {
+          "id": "p112-v1",
+          "name": "Standard",
+          "image": "/images/p112.webp",
+          "offers": [
+            {
+              "id": "p112-v1-s2",
+              "sellerId": "s2",
+              "price": 25900,
+              "originalPrice": 33300,
+              "stock": 9,
+              "sku": "NM-p112-STD"
+            }
+          ]
+        },
+        {
+          "id": "p112-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p112.webp",
+          "offers": [
+            {
+              "id": "p112-v2-s2",
+              "sellerId": "s2",
+              "price": 35900,
+              "originalPrice": 45300,
+              "stock": 4,
+              "sku": "NM-p112-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp"
+    },
+    {
+      "id": "p113",
+      "title": "Green and Black Glasses",
+      "brand": "Fashion Shades",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Green and Black Glasses. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p113.webp"],
+      "rating": 4.2,
+      "reviewCount": 1453,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P113"
+      },
+      "variants": [
+        {
+          "id": "p113-v1",
+          "name": "Standard",
+          "image": "/images/p113.webp",
+          "offers": [
+            {
+              "id": "p113-v1-s2",
+              "sellerId": "s2",
+              "price": 35900,
+              "originalPrice": 48800,
+              "stock": 10,
+              "sku": "NM-p113-STD"
+            }
+          ]
+        },
+        {
+          "id": "p113-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p113.webp",
+          "offers": [
+            {
+              "id": "p113-v2-s2",
+              "sellerId": "s2",
+              "price": 45900,
+              "originalPrice": 60800,
+              "stock": 5,
+              "sku": "NM-p113-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp"
+    },
+    {
+      "id": "p114",
+      "title": "Party Glasses",
+      "brand": "Fashion Fun",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Party Glasses. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p114.webp"],
+      "rating": 4.3,
+      "reviewCount": 1626,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "9 kg",
+        "SKU": "NM-P114"
+      },
+      "variants": [
+        {
+          "id": "p114-v1",
+          "name": "Standard",
+          "image": "/images/p114.webp",
+          "offers": [
+            {
+              "id": "p114-v1-s2",
+              "sellerId": "s2",
+              "price": 20900,
+              "originalPrice": 30800,
+              "stock": 11,
+              "sku": "NM-p114-STD"
+            }
+          ]
+        },
+        {
+          "id": "p114-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p114.webp",
+          "offers": [
+            {
+              "id": "p114-v2-s2",
+              "sellerId": "s2",
+              "price": 30900,
+              "originalPrice": 42800,
+              "stock": 6,
+              "sku": "NM-p114-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp"
+    },
+    {
+      "id": "p115",
+      "title": "Sunglasses",
+      "brand": "Fashion Shades",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Sunglasses. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p115.webp"],
+      "rating": 4.4,
+      "reviewCount": 1799,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "1 kg",
+        "SKU": "NM-P115"
+      },
+      "variants": [
+        {
+          "id": "p115-v1",
+          "name": "Standard",
+          "image": "/images/p115.webp",
+          "offers": [
+            {
+              "id": "p115-v1-s2",
+              "sellerId": "s2",
+              "price": 23900,
+              "originalPrice": 37700,
+              "stock": 12,
+              "sku": "NM-p115-STD"
+            }
+          ]
+        },
+        {
+          "id": "p115-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p115.webp",
+          "offers": [
+            {
+              "id": "p115-v2-s2",
+              "sellerId": "s2",
+              "price": 33900,
+              "originalPrice": 49700,
+              "stock": 7,
+              "sku": "NM-p115-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp"
+    },
+    {
+      "id": "p116",
+      "title": "Blue Women's Handbag",
+      "brand": "Fashionista",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Blue Women's Handbag. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p116.webp"],
+      "rating": 4.5,
+      "reviewCount": 1972,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P116"
+      },
+      "variants": [
+        {
+          "id": "p116-v1",
+          "name": "Standard",
+          "image": "/images/p116.webp",
+          "offers": [
+            {
+              "id": "p116-v1-s2",
+              "sellerId": "s2",
+              "price": 50900,
+              "originalPrice": 60800,
+              "stock": 13,
+              "sku": "NM-p116-STD"
+            }
+          ]
+        },
+        {
+          "id": "p116-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p116.webp",
+          "offers": [
+            {
+              "id": "p116-v2-s2",
+              "sellerId": "s2",
+              "price": 60900,
+              "originalPrice": 72800,
+              "stock": 8,
+              "sku": "NM-p116-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/thumbnail.webp"
+    },
+    {
+      "id": "p117",
+      "title": "Heshe Women's Leather Bag",
+      "brand": "Heshe",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Heshe Women's Leather Bag. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p117.webp"],
+      "rating": 4.6,
+      "reviewCount": 2145,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "3 kg",
+        "SKU": "NM-P117"
+      },
+      "variants": [
+        {
+          "id": "p117-v1",
+          "name": "Standard",
+          "image": "/images/p117.webp",
+          "offers": [
+            {
+              "id": "p117-v1-s2",
+              "sellerId": "s2",
+              "price": 130900,
+              "originalPrice": 164500,
+              "stock": 14,
+              "sku": "NM-p117-STD"
+            }
+          ]
+        },
+        {
+          "id": "p117-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p117.webp",
+          "offers": [
+            {
+              "id": "p117-v2-s2",
+              "sellerId": "s2",
+              "price": 140900,
+              "originalPrice": 176500,
+              "stock": 9,
+              "sku": "NM-p117-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp"
+    },
+    {
+      "id": "p118",
+      "title": "Prada Women Bag",
+      "brand": "Prada",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Prada Women Bag. Utvald för sin praktiska design och fina känsla. En pålitlig följeslagare, hemma och på språng.",
+      "images": ["/images/p118.webp"],
+      "rating": 4.7,
+      "reviewCount": 2318,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "4 kg",
+        "SKU": "NM-P118"
+      },
+      "variants": [
+        {
+          "id": "p118-v1",
+          "name": "Standard",
+          "image": "/images/p118.webp",
+          "offers": [
+            {
+              "id": "p118-v1-s2",
+              "sellerId": "s2",
+              "price": 600900,
+              "originalPrice": 802100,
+              "stock": 15,
+              "sku": "NM-p118-STD"
+            }
+          ]
+        },
+        {
+          "id": "p118-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p118.webp",
+          "offers": [
+            {
+              "id": "p118-v2-s2",
+              "sellerId": "s2",
+              "price": 610900,
+              "originalPrice": 814100,
+              "stock": 10,
+              "sku": "NM-p118-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/thumbnail.webp"
+    },
+    {
+      "id": "p119",
+      "title": "White Faux Leather Backpack",
+      "brand": "Urban Chic",
+      "categoryId": "accessoarer",
+      "description": "Upptäck White Faux Leather Backpack. Kombinationen av funktion och stil gör detta till ett uppskattat val. Omsorgsfullt utvald till vårt sortiment.",
+      "images": ["/images/p119.webp"],
+      "rating": 4.8,
+      "reviewCount": 2491,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "7 kg",
+        "SKU": "NM-P119"
+      },
+      "variants": [
+        {
+          "id": "p119-v1",
+          "name": "Standard",
+          "image": "/images/p119.webp",
+          "offers": [
+            {
+              "id": "p119-v1-s2",
+              "sellerId": "s2",
+              "price": 40900,
+              "originalPrice": 59300,
+              "stock": 16,
+              "sku": "NM-p119-STD"
+            }
+          ]
+        },
+        {
+          "id": "p119-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p119.webp",
+          "offers": [
+            {
+              "id": "p119-v2-s2",
+              "sellerId": "s2",
+              "price": 50900,
+              "originalPrice": 71300,
+              "stock": 11,
+              "sku": "NM-p119-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp"
+    },
+    {
+      "id": "p120",
+      "title": "Women Handbag Black",
+      "brand": "Elegance Collection",
+      "categoryId": "accessoarer",
+      "description": "Upptäck Women Handbag Black. En genomtänkt favorit med fokus på kvalitet och användbarhet. Perfekt för dig som uppskattar de små detaljerna i vardagen.",
+      "images": ["/images/p120.webp"],
+      "rating": 4.9,
+      "reviewCount": 2664,
+      "attributes": {
+        "Material": "Se produktbeskrivning",
+        "Garanti": "2 år",
+        "Ursprung": "Internationellt sortiment",
+        "Vikt": "6 kg",
+        "SKU": "NM-P120"
+      },
+      "variants": [
+        {
+          "id": "p120-v1",
+          "name": "Standard",
+          "image": "/images/p120.webp",
+          "offers": [
+            {
+              "id": "p120-v1-s2",
+              "sellerId": "s2",
+              "price": 60900,
+              "originalPrice": 94600,
+              "stock": 0,
+              "sku": "NM-p120-STD"
+            }
+          ]
+        },
+        {
+          "id": "p120-v2",
+          "name": "Plus · utökat paket",
+          "image": "/images/p120.webp",
+          "offers": [
+            {
+              "id": "p120-v2-s2",
+              "sellerId": "s2",
+              "price": 70900,
+              "originalPrice": 106600,
+              "stock": 12,
+              "sku": "NM-p120-PLUS"
+            }
+          ]
+        }
+      ],
+      "source": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp"
+    }
+  ],
+  "categories": [
+    {
+      "id": "elektronik",
+      "name": "Elektronik & datorer",
+      "image": "/images/p001.webp"
+    },
+    {
+      "id": "mobiltillbehor",
+      "name": "Mobiltillbehör",
+      "image": "/images/p011.webp"
+    },
+    {
+      "id": "hem",
+      "name": "Hem & inredning",
+      "image": "/images/p021.webp"
+    },
+    {
+      "id": "kok",
+      "name": "Kök & matlagning",
+      "image": "/images/p031.webp"
+    },
+    {
+      "id": "herrmode",
+      "name": "Herrmode",
+      "image": "/images/p041.webp"
+    },
+    {
+      "id": "dammode",
+      "name": "Dammode",
+      "image": "/images/p051.webp"
+    },
+    {
+      "id": "skor",
+      "name": "Skor",
+      "image": "/images/p061.webp"
+    },
+    {
+      "id": "sport",
+      "name": "Sport & fritid",
+      "image": "/images/p071.webp"
+    },
+    {
+      "id": "skonhet",
+      "name": "Skönhet & hudvård",
+      "image": "/images/p081.webp"
+    },
+    {
+      "id": "parfym",
+      "name": "Parfym",
+      "image": "/images/p091.webp"
+    },
+    {
+      "id": "mat",
+      "name": "Mat & dryck",
+      "image": "/images/p101.webp"
+    },
+    {
+      "id": "accessoarer",
+      "name": "Väskor & accessoarer",
+      "image": "/images/p111.webp"
+    }
+  ],
+  "sellers": [
+    {
+      "id": "s1",
+      "name": "Nordmark Retail",
+      "description": "Vardagens favoriter, noga utvalda för nordiska hem.",
+      "rating": 4.8
+    },
+    {
+      "id": "s2",
+      "name": "Teknikmagasinet Nord",
+      "description": "Teknik för ett enklare och mer uppkopplat liv.",
+      "rating": 4.7
+    },
+    {
+      "id": "s3",
+      "name": "Studio Hem",
+      "description": "Genomtänkt design för varje rum.",
+      "rating": 4.9
+    },
+    {
+      "id": "s4",
+      "name": "Active Nordic",
+      "description": "Utrustning för rörelse, vardag och äventyr.",
+      "rating": 4.6
+    },
+    {
+      "id": "s5",
+      "name": "Everyday Goods",
+      "description": "Små upptäckter som gör stor skillnad.",
+      "rating": 4.8
+    }
+  ]
+}

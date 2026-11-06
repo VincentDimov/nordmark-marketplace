@@ -1,0 +1,13 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: nordmark
+      POSTGRES_PASSWORD: nordmark
+      POSTGRES_DB: nordmark
+    ports:
+      - '5432:5432'
+    volumes:
+      - nordmark_data:/var/lib/postgresql/data
+volumes:
+  nordmark_data:

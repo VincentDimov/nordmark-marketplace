@@ -1,0 +1,4 @@
+ALTER TABLE "RateLimit" ADD COLUMN "id" TEXT NOT NULL DEFAULT gen_random_uuid()::text;
+ALTER TABLE "RateLimit" ADD COLUMN "lastRequest" BIGINT NOT NULL DEFAULT 0;
+ALTER TABLE "RateLimit" ALTER COLUMN "resetAt" SET DEFAULT CURRENT_TIMESTAMP;
+CREATE UNIQUE INDEX "RateLimit_id_key" ON "RateLimit"("id");

@@ -1,0 +1,47 @@
+name: Verify Nordmark
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_USER: nordmark
+          POSTGRES_PASSWORD: nordmark
+          POSTGRES_DB: nordmark
+        ports: ['5432:5432']
+        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
+    env:
+      DATABASE_URL: postgresql://nordmark:nordmark@localhost:5432/nordmark
+      DIRECT_URL: postgresql://nordmark:nordmark@localhost:5432/nordmark
+      BETTER_AUTH_SECRET: ci-only-disposable-fixture-secret-12345678901234567890
+      BETTER_AUTH_URL: http://localhost:3016
+      NEXT_PUBLIC_SITE_URL: http://localhost:3016
+      STRIPE_WEBHOOK_SECRET: whsec_ci_disposable_fixture
+      DEMO_MODE: 'true'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run db:deploy
+      - run: npm run db:seed
+      - run: npm run lint
+      - run: npm run test
+      - run: npm run build
+      - run: npm run typecheck
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: playwright-results
+          path: playwright-report/

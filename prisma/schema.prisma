@@ -1,0 +1,348 @@
+generator client {
+ provider = "prisma-client-js"
+}
+datasource db {
+ provider = "postgresql"
+ url = env("DATABASE_URL")
+ directUrl = env("DIRECT_URL")
+}
+model User {
+ id String @id
+ name String
+ email String @unique
+ emailVerified Boolean @default(false)
+ image String?
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ sessions Session[]
+ accounts Account[]
+}
+model Session {
+ id String @id
+ expiresAt DateTime
+ token String @unique
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ ipAddress String?
+ userAgent String?
+ userId String
+ user User @relation(fields:[userId],references:[id],onDelete:Cascade)
+ @@index([userId])
+}
+model Account {
+ id String @id
+ accountId String
+ providerId String
+ userId String
+ user User @relation(fields:[userId],references:[id],onDelete:Cascade)
+ accessToken String?
+ refreshToken String?
+ idToken String?
+ accessTokenExpiresAt DateTime?
+ refreshTokenExpiresAt DateTime?
+ scope String?
+ password String?
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ @@index([userId])
+}
+model Verification {
+ id String @id
+ identifier String
+ value String
+ expiresAt DateTime
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ @@index([identifier])
+}
+model Workspace {
+ id String @id @default(cuid())
+ ownerId String? @unique
+ createdAt DateTime @default(now())
+ settings Json @default("{}")
+}
+model Category {
+ id String @id
+ name String
+ parentId String?
+ image String
+}
+model Seller {
+ id String @id
+ name String
+ description String
+ rating Float
+}
+model Product {
+ id String @id
+ title String
+ brand String
+ description String
+ categoryId String
+ images String[]
+ rating Float
+ reviewCount Int
+ attributes Json
+ createdAt DateTime @default(now())
+ variants Variant[]
+ @@index([categoryId])
+}
+model Variant {
+ id String @id
+ productId String
+ product Product @relation(fields:[productId],references:[id],onDelete:Cascade)
+ name String
+ image String
+ offers Offer[]
+}
+model Offer {
+ id String @id
+ variantId String
+ variant Variant @relation(fields:[variantId],references:[id],onDelete:Cascade)
+ sellerId String
+ price Int
+ originalPrice Int
+ stock Int
+ sku String @unique
+ @@index([sellerId])
+}
+model Inventory {
+ id String @id @default(cuid())
+ workspaceId String
+ offerId String
+ stock Int
+ price Int?
+ title String?
+ image String?
+ @@unique([workspaceId,offerId])
+}
+model Media {
+ id String @id @default(cuid())
+ workspaceId String
+ data Bytes
+ mime String
+ createdAt DateTime @default(now())
+}
+model InventoryEvent {
+ id String @id @default(cuid())
+ workspaceId String
+ offerId String
+ delta Int
+ reason String
+ createdAt DateTime @default(now())
+}
+model Cart {
+ id String @id @default(cuid())
+ workspaceId String @unique
+ items Json @default("[]")
+ updatedAt DateTime @updatedAt
+}
+model Address {
+ id String @id @default(cuid())
+ workspaceId String
+ name String
+ street String
+ postalCode String
+ city String
+ country String @default("SE")
+ @@index([workspaceId])
+}
+model Wishlist {
+ id String @id @default(cuid())
+ workspaceId String
+ name String
+ shareToken String? @unique
+ items String[]
+ @@index([workspaceId])
+}
+model Order {
+ id String @id @default(cuid())
+ workspaceId String
+ idempotencyKey String
+ number String @unique
+ orderStatus String @default("PLACED")
+ paymentStatus String @default("PENDING")
+ fulfillmentStatus String @default("PROCESSING")
+ returnStatus String @default("NONE")
+ subtotal Int
+ shipping Int
+ discount Int
+ giftAmount Int @default(0)
+ tax Int
+ total Int
+ currency String @default("SEK")
+ address Json
+ billingAddress Json
+ giftMessage String?
+ coupon String?
+ giftCode String?
+ createdAt DateTime @default(now())
+ items OrderItem[]
+ shipments Shipment[]
+ payment Payment?
+ @@unique([workspaceId,idempotencyKey])
+ @@index([workspaceId,createdAt])
+}
+model OrderItem {
+ id String @id @default(cuid())
+ orderId String
+ order Order @relation(fields:[orderId],references:[id],onDelete:Cascade)
+ offerId String
+ productId String
+ title String
+ image String
+ variant String
+ sellerId String
+ sellerName String
+ quantity Int
+ price Int
+ tax Int
+ @@index([sellerId])
+}
+model Shipment {
+ id String @id @default(cuid())
+ orderId String
+ order Order @relation(fields:[orderId],references:[id],onDelete:Cascade)
+ sellerId String
+ status String @default("PROCESSING")
+ tracking String?
+ events Json @default("[]")
+}
+model Payment {
+ id String @id @default(cuid())
+ orderId String @unique
+ order Order @relation(fields:[orderId],references:[id],onDelete:Cascade)
+ provider String
+ providerId String? @unique
+ status String
+ amount Int
+ refunded Int @default(0)
+}
+model Reservation {
+ id String @id @default(cuid())
+ workspaceId String
+ orderId String
+ offerId String
+ quantity Int
+ expiresAt DateTime
+ status String @default("RESERVED")
+ @@index([workspaceId,status,expiresAt])
+}
+model WebhookEvent {
+ id String @id
+ processedAt DateTime @default(now())
+}
+model ReturnRequest {
+ id String @id @default(cuid())
+ workspaceId String
+ orderId String @unique
+ reason String
+ status String @default("REQUESTED")
+ amount Int
+ createdAt DateTime @default(now())
+}
+model Coupon {
+ id String @id @default(cuid())
+ workspaceId String
+ code String
+ percent Int
+ used Int @default(0)
+ limit Int
+ expiresAt DateTime
+ @@unique([workspaceId,code])
+}
+model GiftCard {
+ id String @id @default(cuid())
+ workspaceId String
+ code String
+ balance Int
+ @@unique([workspaceId,code])
+}
+model GiftTransaction {
+ id String @id @default(cuid())
+ workspaceId String
+ code String
+ amount Int
+ orderId String?
+ createdAt DateTime @default(now())
+}
+model Review {
+ id String @id @default(cuid())
+ workspaceId String
+ productId String
+ rating Int
+ title String
+ body String
+ author String
+ verified Boolean @default(false)
+ demo Boolean @default(true)
+ createdAt DateTime @default(now())
+ @@index([productId,workspaceId])
+}
+model Question {
+ id String @id @default(cuid())
+ workspaceId String
+ productId String
+ question String
+ answer String?
+}
+model Membership {
+ id String @id @default(cuid())
+ workspaceId String @unique
+ active Boolean @default(false)
+ nextAt DateTime
+}
+model Subscription {
+ id String @id @default(cuid())
+ workspaceId String
+ productId String
+ interval Int @default(30)
+ status String @default("ACTIVE")
+ nextAt DateTime
+}
+model Alert {
+ id String @id @default(cuid())
+ workspaceId String
+ productId String
+ kind String
+}
+model Notification {
+ id String @id @default(cuid())
+ workspaceId String
+ title String
+ body String
+ read Boolean @default(false)
+ createdAt DateTime @default(now())
+}
+model SupportTicket {
+ id String @id @default(cuid())
+ workspaceId String
+ orderId String?
+ subject String
+ messages Json
+ status String @default("OPEN")
+ createdAt DateTime @default(now())
+}
+model SellerApplication {
+ id String @id @default(cuid())
+ workspaceId String
+ company String
+ registration String
+ status String @default("PENDING")
+}
+model AuditLog {
+ id String @id @default(cuid())
+ workspaceId String
+ actor String
+ action String
+ resource String
+ createdAt DateTime @default(now())
+ @@index([workspaceId])
+}
+model RateLimit {
+ id String @unique @default(cuid())
+ key String @id
+ count Int @default(1)
+ lastRequest BigInt @default(0)
+ resetAt DateTime @default(now())
+}
