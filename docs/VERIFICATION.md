@@ -22,3 +22,13 @@ Verifierat 6 november 2026 med Node.js 22.20.0 på Windows och Chromium via Play
 De 16 Playwright/API-testerna finns under `tests/e2e`. Webhooktestet använder Stripes egen signeringshjälpare och en disponibel testfixture i databasen; det är inte en faktisk extern Stripe-betalning. SMTP, extern Blob-lagring och riktiga betal-/fraktkonton har inte verifierats. Amazonrobotkontrollen hindrade exakt visuell referensjämförelse.
 
 Krav som inte är färdigställda redovisas i [REQUIREMENTS.md](REQUIREMENTS.md).
+
+## Driftsatt verifiering
+
+Vercel deployment `dpl_CqLBpCgRmABhfCsPbY6vEYnWGvb6` (kodcommit `ce665ac`) byggdes framgångsrikt och promoverades efter ett separat smoke-test till https://nordmark-vincent.vercel.app. Funktionerna kör i Frankfurt (`fra1`) nära databasen. GitHub är anslutet för kommande publiceringar.
+
+Smoke-test mot driftsatt API verifierade databasinitiering, sparad varukorg, lyckat demoköp med rabatt och presentkort, återläsning av order, avbeställning och demoåterbetalning. Efter publicering kördes också de sju webbläsartesterna för sökning/tomläge, komplett variant-/varukorgs-/köpflöde, kontoregistrering och responsiv layout i fyra bredder mot den publika adressen.
+
+En otillförlitlig testväntan på ett nätverkssvar ersattes med kontroll av faktiskt renderat sessionsinnehåll. Det undviker att ett redan avslutat snabbt API-svar missas i CI eller på den publicerade webbplatsen. Applikationskoden ändrades inte av den rättningen.
+
+Vercels första loggsökning efter driftsatt smoke-test returnerade inga felloggar. Separat extern felövervakning/drains är inte konfigurerad. GitHub Actions körs också på den pushade källkoden; dess slutstatus kan läsas via repots Actions-flik.

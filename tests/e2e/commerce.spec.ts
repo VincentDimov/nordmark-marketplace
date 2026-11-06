@@ -232,9 +232,7 @@ for (const width of [390, 768, 1280, 1440])
     page.on('pageerror', (e) => errors.push(e.message));
     await page.goto('/');
     await expect(page.locator('.category-overlap')).toBeVisible();
-    await page
-      .waitForResponse((r) => r.url().endsWith('/api/shop') && r.status() === 200)
-      .catch(() => {});
+    await expect(page.locator('.account-link')).toContainText('Demokund');
     expect(
       await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth),
     ).toBeTruthy();
@@ -242,6 +240,7 @@ for (const width of [390, 768, 1280, 1440])
     await page.screenshot({ path: `docs/screenshots/home-${width}.png`, fullPage: true });
     await page.goto('/produkt/p001');
     await expect(page.locator('.buy-box')).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Lägg i varukorg', exact: true })).toBeEnabled();
     expect(
       await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth),
     ).toBeTruthy();
