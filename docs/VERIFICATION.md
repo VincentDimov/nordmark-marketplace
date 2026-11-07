@@ -1,5 +1,9 @@
 # Verifieringsprotokoll
 
+## Verktygsuppdatering 7 november 2026
+
+Vercels Node-inställning har ändrats från 26.x till 22.x för att matcha projektets testade runtime och `engines` i package.json. ESLint har uppgraderats från den utgångna versionen 9.39.5 till 10.14.0. Avgränsade peer-overrides för de tre äldre lintpluginerna finns dokumenterade i README. Ren installation utan npm-varningar, beroendeträd, lint, strict TypeScript, fem domäntester och produktionsbygge kontrolleras före publicering. Nästa CI-körning verifierar dessutom hela browser-/API-sviten på Linux.
+
 Verifierat 6 november 2026 med Node.js 22.20.0 på Windows och Chromium via Playwright. Databas: PostgreSQL17 i en separat Neon-miljö i Frankfurt.
 
 | Kontroll | Resultat |

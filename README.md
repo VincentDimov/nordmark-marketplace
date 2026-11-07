@@ -9,6 +9,8 @@ Svensk Amazon-inspirerad **demonstrationsmarknadsplats** byggd med Next.js App R
 
 Node.js 22 och npm krävs. För lokal PostgreSQL krävs Docker Compose. Alternativt används en egen PostgreSQL-/Neon-databas.
 
+Utvecklingsverktygen kräver Node.js 22.13 eller senare inom 22-serien. Vercels projektinställning och `package.json` använder båda `22.x`. ESLint är uppdaterat till 10.14. Next.js 16.4.5:s lintkonfiguration innehåller kompatibilitetsstöd för ESLint 10, men dess React-, import- och JSX-a11y-pluginer deklarerar fortfarande äldre peer-intervall. Tre avgränsade npm-overrides använder därför projektets ESLint-version. Ren `npm ci`, `npm ls eslint`, hela lintkontrollen och negativa kontroller för TypeScript, React, Hooks och bildtillgänglighet verifierar denna kombination; inga regler har tagits bort för uppgraderingen.
+
 ```powershell
 cd "C:\Users\Vince\Desktop\Mina Projekt\nordmark"
 npm ci
